@@ -1,13 +1,19 @@
 import json
 
 
-def flatten(arr, result=[]):
-    if not isinstance(arr[0], list):
-        return [(arr[0], arr[1])]
-
-    for item in arr:
-        result += flatten(item, result)
-
+def flatten(arr):
+    stack = arr
+    result = []
+    while(len(stack) > 0):
+        item = stack[0]
+        if not isinstance(item[0], list):
+            result += [(item[0], item[1])]
+            stack.pop()
+        else:
+            flat = []
+            for i in item:
+                flat += i
+            stack[0] = flat
     return result
 
 
@@ -17,6 +23,7 @@ def bounds(coordinates):
     minLng = 90
     maxLat = -180
     maxLng = -90
+
     for coord in coordinates:
         lat = coord[0]
         lng = coord[1]
@@ -24,16 +31,17 @@ def bounds(coordinates):
         minLng = min(minLng, lng)
         maxLat = max(maxLat, lat)
         maxLng = max(maxLng, lng)
-    return {
-        'southWest': {
-            'lat': round(minLat, 6),
-            'lng': round(minLng, 6)
-        },
-        'northEast': {
-            'lat': round(maxLat, 6),
-            'lng': round(maxLng, 6)
+
+        return {
+            'southWest': {
+                'lat': round(minLat, 6),
+                'lng': round(minLng, 6)
+            },
+            'northEast': {
+                'lat': round(maxLat, 6),
+                'lng': round(maxLng, 6)
+            }
         }
-    }
 
 
 with open('./countries.geojson') as f:
@@ -51,4 +59,4 @@ for feature in data['features']:
 
 
 with open('countries_bounds.json', 'w') as out:
-    json.dump(countries, out, indent=2)
+    json.dump(countries, out)#, indent=2)
