@@ -1,1 +1,3572 @@
-[{"name": "Aruba", "iso": "ABW", "bounds": {"southWest": {"lat": 12.577582, "lng": 12.577582}, "northEast": {"lat": -69.996938, "lng": 12.577582}}}, {"name": "Afghanistan", "iso": "AFG", "bounds": {"southWest": {"lat": 38.408664, "lng": 38.408664}, "northEast": {"lat": 71.049802, "lng": 38.408664}}}, {"name": "Angola", "iso": "AGO", "bounds": {"southWest": {"lat": -16.692578, "lng": -16.692578}, "northEast": {"lat": 11.737519, "lng": -16.692578}}}, {"name": "Anguilla", "iso": "AIA", "bounds": {"southWest": {"lat": 18.212958, "lng": 18.212958}, "northEast": {"lat": -63.037668, "lng": 18.212958}}}, {"name": "Albania", "iso": "ALB", "bounds": {"southWest": {"lat": 42.578901, "lng": 42.578901}, "northEast": {"lat": 19.747766, "lng": 42.578901}}}, {"name": "Aland", "iso": "ALA", "bounds": {"southWest": {"lat": 59.909247, "lng": 59.909247}, "northEast": {"lat": 20.920177, "lng": 59.909247}}}, {"name": "Andorra", "iso": "AND", "bounds": {"southWest": {"lat": 42.502781, "lng": 42.502781}, "northEast": {"lat": 1.707006, "lng": 42.502781}}}, {"name": "United Arab Emirates", "iso": "ARE", "bounds": {"southWest": {"lat": 24.234687, "lng": 24.234687}, "northEast": {"lat": 53.863048, "lng": 24.234687}}}, {"name": "Argentina", "iso": "ARG", "bounds": {"southWest": {"lat": -54.886244, "lng": -54.886244}, "northEast": {"lat": -68.654124, "lng": -54.886244}}}, {"name": "Armenia", "iso": "ARM", "bounds": {"southWest": {"lat": 40.621553, "lng": 40.621553}, "northEast": {"lat": 45.547173, "lng": 40.621553}}}, {"name": "American Samoa", "iso": "ASM", "bounds": {"southWest": {"lat": -14.520929, "lng": -14.520929}, "northEast": {"lat": -168.160471, "lng": -14.520929}}}, {"name": "Antarctica", "iso": "ATA", "bounds": {"southWest": {"lat": -82.896417, "lng": -82.896417}, "northEast": {"lat": -162.409047, "lng": -82.896417}}}, {"name": "Ashmore and Cartier Islands", "iso": "-99", "bounds": {"southWest": {"lat": -12.428318, "lng": -12.428318}, "northEast": {"lat": 123.597016, "lng": -12.428318}}}, {"name": "French Southern and Antarctic Lands", "iso": "ATF", "bounds": {"southWest": {"lat": -49.564223, "lng": -49.564223}, "northEast": {"lat": 70.016124, "lng": -49.564223}}}, {"name": "Antigua and Barbuda", "iso": "ATG", "bounds": {"southWest": {"lat": 17.126532, "lng": 17.126532}, "northEast": {"lat": -61.77302, "lng": 17.126532}}}, {"name": "Australia", "iso": "AUS", "bounds": {"southWest": {"lat": -54.749933, "lng": -54.749933}, "northEast": {"lat": 158.865733, "lng": -54.749933}}}, {"name": "Austria", "iso": "AUT", "bounds": {"southWest": {"lat": 48.937221, "lng": 48.937221}, "northEast": {"lat": 15.161792, "lng": 48.937221}}}, {"name": "Azerbaijan", "iso": "AZE", "bounds": {"southWest": {"lat": 39.74982, "lng": 39.74982}, "northEast": {"lat": 45.074999, "lng": 39.74982}}}, {"name": "Burundi", "iso": "BDI", "bounds": {"southWest": {"lat": -2.313088, "lng": -2.313088}, "northEast": {"lat": 30.415073, "lng": -2.313088}}}, {"name": "Belgium", "iso": "BEL", "bounds": {"southWest": {"lat": 51.431074, "lng": 51.431074}, "northEast": {"lat": 4.815447, "lng": 51.431074}}}, {"name": "Benin", "iso": "BEN", "bounds": {"southWest": {"lat": 11.882893, "lng": 11.882893}, "northEast": {"lat": 3.341635, "lng": 11.882893}}}, {"name": "Burkina Faso", "iso": "BFA", "bounds": {"southWest": {"lat": 15.002135, "lng": 15.002135}, "northEast": {"lat": -0.397671, "lng": 15.002135}}}, {"name": "Bangladesh", "iso": "BGD", "bounds": {"southWest": {"lat": 21.71483, "lng": 21.71483}, "northEast": {"lat": 91.938731, "lng": 21.71483}}}, {"name": "Bulgaria", "iso": "BGR", "bounds": {"southWest": {"lat": 43.834225, "lng": 43.834225}, "northEast": {"lat": 22.919562, "lng": 43.834225}}}, {"name": "Bahrain", "iso": "BHR", "bounds": {"southWest": {"lat": 26.194241, "lng": 26.194241}, "northEast": {"lat": 50.551606, "lng": 26.194241}}}, {"name": "The Bahamas", "iso": "BHS", "bounds": {"southWest": {"lat": 21.156731, "lng": 21.156731}, "northEast": {"lat": -73.03393, "lng": 21.156731}}}, {"name": "Bosnia and Herzegovina", "iso": "BIH", "bounds": {"southWest": {"lat": 45.241219, "lng": 45.241219}, "northEast": {"lat": 16.941529, "lng": 45.241219}}}, {"name": "Bajo Nuevo Bank (Petrel Is.)", "iso": "-99", "bounds": {"southWest": {"lat": 15.794949, "lng": 15.794949}, "northEast": {"lat": -79.989288, "lng": 15.794949}}}, {"name": "Saint Barthelemy", "iso": "BLM", "bounds": {"southWest": {"lat": 17.881985, "lng": 17.881985}, "northEast": {"lat": -62.838857, "lng": 17.881985}}}, {"name": "Belarus", "iso": "BLR", "bounds": {"southWest": {"lat": 56.142414, "lng": 56.142414}, "northEast": {"lat": 28.148907, "lng": 56.142414}}}, {"name": "Belize", "iso": "BLZ", "bounds": {"southWest": {"lat": 17.315985, "lng": 17.315985}, "northEast": {"lat": -87.8037, "lng": 17.315985}}}, {"name": "Bermuda", "iso": "BMU", "bounds": {"southWest": {"lat": 32.289936, "lng": 32.289936}, "northEast": {"lat": -64.811966, "lng": 32.289936}}}, {"name": "Bolivia", "iso": "BOL", "bounds": {"southWest": {"lat": -11.504723, "lng": -11.504723}, "northEast": {"lat": -65.29247, "lng": -11.504723}}}, {"name": "Brazil", "iso": "BRA", "bounds": {"southWest": {"lat": -27.816664, "lng": -27.816664}, "northEast": {"lat": -48.542592, "lng": -27.816664}}}, {"name": "Barbados", "iso": "BRB", "bounds": {"southWest": {"lat": 13.160386, "lng": 13.160386}, "northEast": {"lat": -59.42691, "lng": 13.160386}}}, {"name": "Brunei", "iso": "BRN", "bounds": {"southWest": {"lat": 4.90884, "lng": 4.90884}, "northEast": {"lat": 115.134532, "lng": 4.90884}}}, {"name": "Bhutan", "iso": "BTN", "bounds": {"southWest": {"lat": 28.335354, "lng": 28.335354}, "northEast": {"lat": 90.261804, "lng": 28.335354}}}, {"name": "Botswana", "iso": "BWA", "bounds": {"southWest": {"lat": -17.794107, "lng": -17.794107}, "northEast": {"lat": 25.259781, "lng": -17.794107}}}, {"name": "Central African Republic", "iso": "CAF", "bounds": {"southWest": {"lat": 10.978969, "lng": 10.978969}, "northEast": {"lat": 22.55576, "lng": 10.978969}}}, {"name": "Canada", "iso": "CAN", "bounds": {"southWest": {"lat": 43.428168, "lng": 43.428168}, "northEast": {"lat": -65.610585, "lng": 43.428168}}}, {"name": "Switzerland", "iso": "CHE", "bounds": {"southWest": {"lat": 47.757319, "lng": 47.757319}, "northEast": {"lat": 8.617437, "lng": 47.757319}}}, {"name": "Chile", "iso": "CHL", "bounds": {"southWest": {"lat": -55.828871, "lng": -55.828871}, "northEast": {"lat": -67.256093, "lng": -55.828871}}}, {"name": "China", "iso": "CHN", "bounds": {"southWest": {"lat": 15.779242, "lng": 15.779242}, "northEast": {"lat": 111.2046, "lng": 15.779242}}}, {"name": "Ivory Coast", "iso": "CIV", "bounds": {"southWest": {"lat": 5.13227, "lng": 5.13227}, "northEast": {"lat": -3.184967, "lng": 5.13227}}}, {"name": "Clipperton Island", "iso": "-99", "bounds": {"southWest": {"lat": 10.30268, "lng": 10.30268}, "northEast": {"lat": -109.212026, "lng": 10.30268}}}, {"name": "Cameroon", "iso": "CMR", "bounds": {"southWest": {"lat": 12.766224, "lng": 12.766224}, "northEast": {"lat": 14.560692, "lng": 12.766224}}}, {"name": "Cyprus No Mans Area", "iso": "-99", "bounds": {"southWest": {"lat": 35.06277, "lng": 35.06277}, "northEast": {"lat": 33.925402, "lng": 35.06277}}}, {"name": "Democratic Republic of the Congo", "iso": "COD", "bounds": {"southWest": {"lat": -5.868244, "lng": -5.868244}, "northEast": {"lat": 12.99459, "lng": -5.868244}}}, {"name": "Republic of Congo", "iso": "COG", "bounds": {"southWest": {"lat": 3.626317, "lng": 3.626317}, "northEast": {"lat": 17.627275, "lng": 3.626317}}}, {"name": "Cook Islands", "iso": "COK", "bounds": {"southWest": {"lat": -21.937677, "lng": -21.937677}, "northEast": {"lat": -157.91511, "lng": -21.937677}}}, {"name": "Colombia", "iso": "COL", "bounds": {"southWest": {"lat": 2.687339, "lng": 2.687339}, "northEast": {"lat": -78.204891, "lng": 2.687339}}}, {"name": "Comoros", "iso": "COM", "bounds": {"southWest": {"lat": -12.373468, "lng": -12.373468}, "northEast": {"lat": 43.842947, "lng": -12.373468}}}, {"name": "Cape Verde", "iso": "CPV", "bounds": {"southWest": {"lat": 14.842475, "lng": 14.842475}, "northEast": {"lat": -24.683258, "lng": 14.842475}}}, {"name": "Costa Rica", "iso": "CRI", "bounds": {"southWest": {"lat": 5.516018, "lng": 5.516018}, "northEast": {"lat": -87.099029, "lng": 5.516018}}}, {"name": "Coral Sea Islands", "iso": "-99", "bounds": {"southWest": {"lat": -21.030043, "lng": -21.030043}, "northEast": {"lat": 154.391287, "lng": -21.030043}}}, {"name": "Cuba", "iso": "CUB", "bounds": {"southWest": {"lat": 20.562161, "lng": 20.562161}, "northEast": {"lat": -78.384185, "lng": 20.562161}}}, {"name": "Cura\u00e7ao", "iso": "CUW", "bounds": {"southWest": {"lat": 12.097805, "lng": 12.097805}, "northEast": {"lat": -68.780751, "lng": 12.097805}}}, {"name": "Cayman Islands", "iso": "CYM", "bounds": {"southWest": {"lat": 19.319946, "lng": 19.319946}, "northEast": {"lat": -81.364045, "lng": 19.319946}}}, {"name": "Northern Cyprus", "iso": "-99", "bounds": {"southWest": {"lat": 35.16509, "lng": 35.16509}, "northEast": {"lat": 32.626204, "lng": 35.16509}}}, {"name": "Cyprus", "iso": "CYP", "bounds": {"southWest": {"lat": 34.988666, "lng": 34.988666}, "northEast": {"lat": 33.77399, "lng": 34.988666}}}, {"name": "Czech Republic", "iso": "CZE", "bounds": {"southWest": {"lat": 51.013115, "lng": 51.013115}, "northEast": {"lat": 14.397808, "lng": 51.013115}}}, {"name": "Germany", "iso": "DEU", "bounds": {"southWest": {"lat": 53.578355, "lng": 53.578355}, "northEast": {"lat": 6.742198, "lng": 53.578355}}}, {"name": "Djibouti", "iso": "DJI", "bounds": {"southWest": {"lat": 11.48786, "lng": 11.48786}, "northEast": {"lat": 43.240733, "lng": 11.48786}}}, {"name": "Dominica", "iso": "DMA", "bounds": {"southWest": {"lat": 15.201809, "lng": 15.201809}, "northEast": {"lat": -61.362864, "lng": 15.201809}}}, {"name": "Denmark", "iso": "DNK", "bounds": {"southWest": {"lat": 54.954576, "lng": 54.954576}, "northEast": {"lat": 11.256033, "lng": 54.954576}}}, {"name": "Dominican Republic", "iso": "DOM", "bounds": {"southWest": {"lat": 17.551256, "lng": 17.551256}, "northEast": {"lat": -71.507395, "lng": 17.551256}}}, {"name": "Algeria", "iso": "DZA", "bounds": {"southWest": {"lat": 36.939511, "lng": 36.939511}, "northEast": {"lat": 8.60251, "lng": 36.939511}}}, {"name": "Ecuador", "iso": "ECU", "bounds": {"southWest": {"lat": -2.997979, "lng": -2.997979}, "northEast": {"lat": -80.115102, "lng": -2.997979}}}, {"name": "Egypt", "iso": "EGY", "bounds": {"southWest": {"lat": 26.731635, "lng": 26.731635}, "northEast": {"lat": 34.00294, "lng": 26.731635}}}, {"name": "Eritrea", "iso": "ERI", "bounds": {"southWest": {"lat": 15.882636, "lng": 15.882636}, "northEast": {"lat": 40.026215, "lng": 15.882636}}}, {"name": "Dhekelia Sovereign Base Area", "iso": "-99", "bounds": {"southWest": {"lat": 35.090882, "lng": 35.090882}, "northEast": {"lat": 33.905868, "lng": 35.090882}}}, {"name": "Spain", "iso": "ESP", "bounds": {"southWest": {"lat": 27.797919, "lng": 27.797919}, "northEast": {"lat": -17.885121, "lng": 27.797919}}}, {"name": "Estonia", "iso": "EST", "bounds": {"southWest": {"lat": 57.785631, "lng": 57.785631}, "northEast": {"lat": 23.270193, "lng": 57.785631}}}, {"name": "Ethiopia", "iso": "ETH", "bounds": {"southWest": {"lat": 14.677762, "lng": 14.677762}, "northEast": {"lat": 38.13331, "lng": 14.677762}}}, {"name": "Finland", "iso": "FIN", "bounds": {"southWest": {"lat": 59.851467, "lng": 59.851467}, "northEast": {"lat": 22.443696, "lng": 59.851467}}}, {"name": "Fiji", "iso": "FJI", "bounds": {"southWest": {"lat": -21.702569, "lng": -21.702569}, "northEast": {"lat": 174.627778, "lng": -21.702569}}}, {"name": "Falkland Islands", "iso": "FLK", "bounds": {"southWest": {"lat": -52.357973, "lng": -52.357973}, "northEast": {"lat": -59.742495, "lng": -52.357973}}}, {"name": "France", "iso": "FRA", "bounds": {"southWest": {"lat": -20.873224, "lng": -20.873224}, "northEast": {"lat": 55.501313, "lng": -20.873224}}}, {"name": "Faroe Islands", "iso": "FRO", "bounds": {"southWest": {"lat": 61.622219, "lng": 61.622219}, "northEast": {"lat": -6.887766, "lng": 61.622219}}}, {"name": "Federated States of Micronesia", "iso": "FSM", "bounds": {"southWest": {"lat": 0.922187, "lng": 0.922187}, "northEast": {"lat": 154.817638, "lng": 0.922187}}}, {"name": "Gabon", "iso": "GAB", "bounds": {"southWest": {"lat": -0.755548, "lng": -0.755548}, "northEast": {"lat": 9.021007, "lng": -0.755548}}}, {"name": "United Kingdom", "iso": "GBR", "bounds": {"southWest": {"lat": 49.914008, "lng": 49.914008}, "northEast": {"lat": -6.287506, "lng": 49.914008}}}, {"name": "Georgia", "iso": "GEO", "bounds": {"southWest": {"lat": 43.508741, "lng": 43.508741}, "northEast": {"lat": 40.479834, "lng": 43.508741}}}, {"name": "Guernsey", "iso": "GGY", "bounds": {"southWest": {"lat": 49.417873, "lng": 49.417873}, "northEast": {"lat": -2.364654, "lng": 49.417873}}}, {"name": "Ghana", "iso": "GHA", "bounds": {"southWest": {"lat": 11.13498, "lng": 11.13498}, "northEast": {"lat": -0.166109, "lng": 11.13498}}}, {"name": "Gibraltar", "iso": "GIB", "bounds": {"southWest": {"lat": 36.141109, "lng": 36.141109}, "northEast": {"lat": -5.358387, "lng": 36.141109}}}, {"name": "Guinea", "iso": "GIN", "bounds": {"southWest": {"lat": 12.63923, "lng": 12.63923}, "northEast": {"lat": -13.338613, "lng": 12.63923}}}, {"name": "Gambia", "iso": "GMB", "bounds": {"southWest": {"lat": 13.615449, "lng": 13.615449}, "northEast": {"lat": -14.74093, "lng": 13.615449}}}, {"name": "Guinea Bissau", "iso": "GNB", "bounds": {"southWest": {"lat": 11.142279, "lng": 11.142279}, "northEast": {"lat": -15.901601, "lng": 11.142279}}}, {"name": "Equatorial Guinea", "iso": "GNQ", "bounds": {"southWest": {"lat": -1.462823, "lng": -1.462823}, "northEast": {"lat": 5.642751, "lng": -1.462823}}}, {"name": "Greece", "iso": "GRC", "bounds": {"southWest": {"lat": 34.821763, "lng": 34.821763}, "northEast": {"lat": 24.135265, "lng": 34.821763}}}, {"name": "Grenada", "iso": "GRD", "bounds": {"southWest": {"lat": 12.044094, "lng": 12.044094}, "northEast": {"lat": -61.631581, "lng": 12.044094}}}, {"name": "Greenland", "iso": "GRL", "bounds": {"southWest": {"lat": 59.902533, "lng": 59.902533}, "northEast": {"lat": -43.706695, "lng": 59.902533}}}, {"name": "Guatemala", "iso": "GTM", "bounds": {"southWest": {"lat": 17.814314, "lng": 17.814314}, "northEast": {"lat": -89.160496, "lng": 17.814314}}}, {"name": "Guam", "iso": "GUM", "bounds": {"southWest": {"lat": 13.640204, "lng": 13.640204}, "northEast": {"lat": 144.886404, "lng": 13.640204}}}, {"name": "Guyana", "iso": "GUY", "bounds": {"southWest": {"lat": 6.904771, "lng": 6.904771}, "northEast": {"lat": -58.441029, "lng": 6.904771}}}, {"name": "Hong Kong S.A.R.", "iso": "HKG", "bounds": {"southWest": {"lat": 22.221869, "lng": 22.221869}, "northEast": {"lat": 114.117442, "lng": 22.221869}}}, {"name": "Heard Island and McDonald Islands", "iso": "HMD", "bounds": {"southWest": {"lat": -53.1124, "lng": -53.1124}, "northEast": {"lat": 73.735118, "lng": -53.1124}}}, {"name": "Honduras", "iso": "HND", "bounds": {"southWest": {"lat": 13.252916, "lng": 13.252916}, "northEast": {"lat": -87.624338, "lng": 13.252916}}}, {"name": "Croatia", "iso": "HRV", "bounds": {"southWest": {"lat": 42.770941, "lng": 42.770941}, "northEast": {"lat": 16.93393, "lng": 42.770941}}}, {"name": "Haiti", "iso": "HTI", "bounds": {"southWest": {"lat": 18.106879, "lng": 18.106879}, "northEast": {"lat": -73.694244, "lng": 18.106879}}}, {"name": "Hungary", "iso": "HUN", "bounds": {"southWest": {"lat": 48.516859, "lng": 48.516859}, "northEast": {"lat": 20.981489, "lng": 48.516859}}}, {"name": "Indonesia", "iso": "IDN", "bounds": {"southWest": {"lat": -10.60117, "lng": -10.60117}, "northEast": {"lat": 121.597423, "lng": -10.60117}}}, {"name": "Isle of Man", "iso": "IMN", "bounds": {"southWest": {"lat": 54.056952, "lng": 54.056952}, "northEast": {"lat": -4.612131, "lng": 54.056952}}}, {"name": "India", "iso": "IND", "bounds": {"southWest": {"lat": 7.214179, "lng": 7.214179}, "northEast": {"lat": 93.855317, "lng": 7.214179}}}, {"name": "Indian Ocean Territories", "iso": "-99", "bounds": {"southWest": {"lat": -12.194513, "lng": -12.194513}, "northEast": {"lat": 96.91391, "lng": -12.194513}}}, {"name": "British Indian Ocean Territory", "iso": "IOT", "bounds": {"southWest": {"lat": -7.340265, "lng": -7.340265}, "northEast": {"lat": 72.438975, "lng": -7.340265}}}, {"name": "Ireland", "iso": "IRL", "bounds": {"southWest": {"lat": 51.638902, "lng": 51.638902}, "northEast": {"lat": -9.824086, "lng": 51.638902}}}, {"name": "Iran", "iso": "IRN", "bounds": {"southWest": {"lat": 25.86461, "lng": 25.86461}, "northEast": {"lat": 55.054373, "lng": 25.86461}}}, {"name": "Iraq", "iso": "IRQ", "bounds": {"southWest": {"lat": 37.324906, "lng": 37.324906}, "northEast": {"lat": 42.89674, "lng": 37.324906}}}, {"name": "Iceland", "iso": "ISL", "bounds": {"southWest": {"lat": 63.409125, "lng": 63.409125}, "northEast": {"lat": -20.269643, "lng": 63.409125}}}, {"name": "Israel", "iso": "ISR", "bounds": {"southWest": {"lat": 33.248463, "lng": 33.248463}, "northEast": {"lat": 35.803633, "lng": 33.248463}}}, {"name": "Italy", "iso": "ITA", "bounds": {"southWest": {"lat": 35.492336, "lng": 35.492336}, "northEast": {"lat": 12.621267, "lng": 35.492336}}}, {"name": "Jamaica", "iso": "JAM", "bounds": {"southWest": {"lat": 18.012356, "lng": 18.012356}, "northEast": {"lat": -76.263743, "lng": 18.012356}}}, {"name": "Jersey", "iso": "JEY", "bounds": {"southWest": {"lat": 49.26024, "lng": 49.26024}, "northEast": {"lat": -2.082672, "lng": 49.26024}}}, {"name": "Jordan", "iso": "JOR", "bounds": {"southWest": {"lat": 32.308494, "lng": 32.308494}, "northEast": {"lat": 39.046329, "lng": 32.308494}}}, {"name": "Japan", "iso": "JPN", "bounds": {"southWest": {"lat": 24.213772, "lng": 24.213772}, "northEast": {"lat": 141.467947, "lng": 24.213772}}}, {"name": "Baykonur Cosmodrome", "iso": "-99", "bounds": {"southWest": {"lat": 45.565824, "lng": 45.565824}, "northEast": {"lat": 63.383914, "lng": 45.565824}}}, {"name": "Siachen Glacier", "iso": "-99", "bounds": {"southWest": {"lat": 35.578656, "lng": 35.578656}, "northEast": {"lat": 76.976417, "lng": 35.578656}}}, {"name": "Kazakhstan", "iso": "KAZ", "bounds": {"southWest": {"lat": 44.938951, "lng": 44.938951}, "northEast": {"lat": 50.659516, "lng": 44.938951}}}, {"name": "Kenya", "iso": "KEN", "bounds": {"southWest": {"lat": -2.090916, "lng": -2.090916}, "northEast": {"lat": 41.162771, "lng": -2.090916}}}, {"name": "Kyrgyzstan", "iso": "KGZ", "bounds": {"southWest": {"lat": 42.84519, "lng": 42.84519}, "northEast": {"lat": 75.204639, "lng": 42.84519}}}, {"name": "Cambodia", "iso": "KHM", "bounds": {"southWest": {"lat": 10.463202, "lng": 10.463202}, "northEast": {"lat": 103.804861, "lng": 10.463202}}}, {"name": "Kiribati", "iso": "KIR", "bounds": {"southWest": {"lat": -11.454685, "lng": -11.454685}, "northEast": {"lat": -151.780955, "lng": -11.454685}}}, {"name": "Saint Kitts and Nevis", "iso": "KNA", "bounds": {"southWest": {"lat": 17.104641, "lng": 17.104641}, "northEast": {"lat": -62.547597, "lng": 17.104641}}}, {"name": "South Korea", "iso": "KOR", "bounds": {"southWest": {"lat": 33.55944, "lng": 33.55944}, "northEast": {"lat": 126.823366, "lng": 33.55944}}}, {"name": "Kosovo", "iso": "-99", "bounds": {"southWest": {"lat": 43.217337, "lng": 43.217337}, "northEast": {"lat": 20.8647, "lng": 43.217337}}}, {"name": "Kuwait", "iso": "KWT", "bounds": {"southWest": {"lat": 29.433987, "lng": 29.433987}, "northEast": {"lat": 48.381114, "lng": 29.433987}}}, {"name": "Laos", "iso": "LAO", "bounds": {"southWest": {"lat": 22.378842, "lng": 22.378842}, "northEast": {"lat": 101.867921, "lng": 22.378842}}}, {"name": "Lebanon", "iso": "LBN", "bounds": {"southWest": {"lat": 34.622487, "lng": 34.622487}, "northEast": {"lat": 36.391194, "lng": 34.622487}}}, {"name": "Liberia", "iso": "LBR", "bounds": {"southWest": {"lat": 8.435636, "lng": 8.435636}, "northEast": {"lat": -9.722115, "lng": 8.435636}}}, {"name": "Libya", "iso": "LBY", "bounds": {"southWest": {"lat": 30.287055, "lng": 30.287055}, "northEast": {"lat": 19.291677, "lng": 30.287055}}}, {"name": "Saint Lucia", "iso": "LCA", "bounds": {"southWest": {"lat": 14.010077, "lng": 14.010077}, "northEast": {"lat": -60.88679, "lng": 14.010077}}}, {"name": "Liechtenstein", "iso": "LIE", "bounds": {"southWest": {"lat": 47.05687, "lng": 47.05687}, "northEast": {"lat": 9.581203, "lng": 47.05687}}}, {"name": "Sri Lanka", "iso": "LKA", "bounds": {"southWest": {"lat": 7.49136, "lng": 7.49136}, "northEast": {"lat": 81.822602, "lng": 7.49136}}}, {"name": "Lesotho", "iso": "LSO", "bounds": {"southWest": {"lat": -28.909035, "lng": -28.909035}, "northEast": {"lat": 28.980846, "lng": -28.909035}}}, {"name": "Lithuania", "iso": "LTU", "bounds": {"southWest": {"lat": 55.291327, "lng": 55.291327}, "northEast": {"lat": 20.988943, "lng": 55.291327}}}, {"name": "Luxembourg", "iso": "LUX", "bounds": {"southWest": {"lat": 50.148413, "lng": 50.148413}, "northEast": {"lat": 6.038628, "lng": 50.148413}}}, {"name": "Latvia", "iso": "LVA", "bounds": {"southWest": {"lat": 58.031808, "lng": 58.031808}, "northEast": {"lat": 25.333678, "lng": 58.031808}}}, {"name": "Macao S.A.R", "iso": "MAC", "bounds": {"southWest": {"lat": 22.163031, "lng": 22.163031}, "northEast": {"lat": 113.558604, "lng": 22.163031}}}, {"name": "Saint Martin", "iso": "MAF", "bounds": {"southWest": {"lat": 18.033391, "lng": 18.033391}, "northEast": {"lat": -63.017569, "lng": 18.033391}}}, {"name": "Morocco", "iso": "MAR", "bounds": {"southWest": {"lat": 35.926519, "lng": 35.926519}, "northEast": {"lat": -5.40549, "lng": 35.926519}}}, {"name": "Monaco", "iso": "MCO", "bounds": {"southWest": {"lat": 43.743361, "lng": 43.743361}, "northEast": {"lat": 7.437454, "lng": 43.743361}}}, {"name": "Moldova", "iso": "MDA", "bounds": {"southWest": {"lat": 48.457819, "lng": 48.457819}, "northEast": {"lat": 27.606873, "lng": 48.457819}}}, {"name": "Madagascar", "iso": "MDG", "bounds": {"southWest": {"lat": -17.072198, "lng": -17.072198}, "northEast": {"lat": 49.844493, "lng": -17.072198}}}, {"name": "Maldives", "iso": "MDV", "bounds": {"southWest": {"lat": -0.681817, "lng": -0.681817}, "northEast": {"lat": 73.163097, "lng": -0.681817}}}, {"name": "Mexico", "iso": "MEX", "bounds": {"southWest": {"lat": 18.32925, "lng": 18.32925}, "northEast": {"lat": -114.734039, "lng": 18.32925}}}, {"name": "Marshall Islands", "iso": "MHL", "bounds": {"southWest": {"lat": 4.574774, "lng": 4.574774}, "northEast": {"lat": 168.716807, "lng": 4.574774}}}, {"name": "Macedonia", "iso": "MKD", "bounds": {"southWest": {"lat": 42.313439, "lng": 42.313439}, "northEast": {"lat": 22.345023, "lng": 42.313439}}}, {"name": "Mali", "iso": "MLI", "bounds": {"southWest": {"lat": 24.994755, "lng": 24.994755}, "northEast": {"lat": -4.821226, "lng": 24.994755}}}, {"name": "Malta", "iso": "MLT", "bounds": {"southWest": {"lat": 35.845608, "lng": 35.845608}, "northEast": {"lat": 14.567149, "lng": 35.845608}}}, {"name": "Myanmar", "iso": "MMR", "bounds": {"southWest": {"lat": 9.796861, "lng": 9.796861}, "northEast": {"lat": 98.057465, "lng": 9.796861}}}, {"name": "Montenegro", "iso": "MNE", "bounds": {"southWest": {"lat": 43.5067, "lng": 43.5067}, "northEast": {"lat": 19.054991, "lng": 43.5067}}}, {"name": "Mongolia", "iso": "MNG", "bounds": {"southWest": {"lat": 51.731727, "lng": 51.731727}, "northEast": {"lat": 100.005968, "lng": 51.731727}}}, {"name": "Northern Mariana Islands", "iso": "MNP", "bounds": {"southWest": {"lat": 14.129096, "lng": 14.129096}, "northEast": {"lat": 145.236827, "lng": 14.129096}}}, {"name": "Mozambique", "iso": "MOZ", "bounds": {"southWest": {"lat": -26.009454, "lng": -26.009454}, "northEast": {"lat": 32.975108, "lng": -26.009454}}}, {"name": "Mauritania", "iso": "MRT", "bounds": {"southWest": {"lat": 19.599921, "lng": 19.599921}, "northEast": {"lat": -16.394521, "lng": 19.599921}}}, {"name": "Montserrat", "iso": "MSR", "bounds": {"southWest": {"lat": 16.744289, "lng": 16.744289}, "northEast": {"lat": -62.147369, "lng": 16.744289}}}, {"name": "Mauritius", "iso": "MUS", "bounds": {"southWest": {"lat": -20.096124, "lng": -20.096124}, "northEast": {"lat": 57.713878, "lng": -20.096124}}}, {"name": "Malawi", "iso": "MWI", "bounds": {"southWest": {"lat": -12.120809, "lng": -12.120809}, "northEast": {"lat": 34.711607, "lng": -12.120809}}}, {"name": "Malaysia", "iso": "MYS", "bounds": {"southWest": {"lat": 2.387356, "lng": 2.387356}, "northEast": {"lat": 111.412446, "lng": 2.387356}}}, {"name": "Namibia", "iso": "NAM", "bounds": {"southWest": {"lat": -16.964183, "lng": -16.964183}, "northEast": {"lat": 13.184911, "lng": -16.964183}}}, {"name": "New Caledonia", "iso": "NCL", "bounds": {"southWest": {"lat": -22.59824, "lng": -22.59824}, "northEast": {"lat": 167.544688, "lng": -22.59824}}}, {"name": "Niger", "iso": "NER", "bounds": {"southWest": {"lat": 22.616295, "lng": 22.616295}, "northEast": {"lat": 14.216217, "lng": 22.616295}}}, {"name": "Norfolk Island", "iso": "NFK", "bounds": {"southWest": {"lat": -29.017836, "lng": -29.017836}, "northEast": {"lat": 167.984141, "lng": -29.017836}}}, {"name": "Nigeria", "iso": "NGA", "bounds": {"southWest": {"lat": 4.475531, "lng": 4.475531}, "northEast": {"lat": 7.451915, "lng": 4.475531}}}, {"name": "Nicaragua", "iso": "NIC", "bounds": {"southWest": {"lat": 11.883694, "lng": 11.883694}, "northEast": {"lat": -83.720367, "lng": 11.883694}}}, {"name": "Niue", "iso": "NIU", "bounds": {"southWest": {"lat": -18.965102, "lng": -18.965102}, "northEast": {"lat": -169.851145, "lng": -18.965102}}}, {"name": "Netherlands", "iso": "NLD", "bounds": {"southWest": {"lat": 12.026801, "lng": 12.026801}, "northEast": {"lat": -68.237294, "lng": 12.026801}}}, {"name": "Norway", "iso": "NOR", "bounds": {"southWest": {"lat": -54.449314, "lng": -54.449314}, "northEast": {"lat": 3.382579, "lng": -54.449314}}}, {"name": "Nepal", "iso": "NPL", "bounds": {"southWest": {"lat": 30.358045, "lng": 30.358045}, "northEast": {"lat": 81.779018, "lng": 30.358045}}}, {"name": "Nauru", "iso": "NRU", "bounds": {"southWest": {"lat": -0.490411, "lng": -0.490411}, "northEast": {"lat": 166.938813, "lng": -0.490411}}}, {"name": "New Zealand", "iso": "NZL", "bounds": {"southWest": {"lat": -52.474562, "lng": -52.474562}, "northEast": {"lat": 169.21276, "lng": -52.474562}}}, {"name": "Oman", "iso": "OMN", "bounds": {"southWest": {"lat": 17.504543, "lng": 17.504543}, "northEast": {"lat": 55.890798, "lng": 17.504543}}}, {"name": "Pakistan", "iso": "PAK", "bounds": {"southWest": {"lat": 24.051215, "lng": 24.051215}, "northEast": {"lat": 67.477794, "lng": 24.051215}}}, {"name": "Panama", "iso": "PAN", "bounds": {"southWest": {"lat": 7.291571, "lng": 7.291571}, "northEast": {"lat": -81.8072, "lng": 7.291571}}}, {"name": "Pitcairn Islands", "iso": "PCN", "bounds": {"southWest": {"lat": -25.075128, "lng": -25.075128}, "northEast": {"lat": -130.086252, "lng": -25.075128}}}, {"name": "Peru", "iso": "PER", "bounds": {"southWest": {"lat": -14.288375, "lng": -14.288375}, "northEast": {"lat": -76.17566, "lng": -14.288375}}}, {"name": "Spratly Islands", "iso": "-99", "bounds": {"southWest": {"lat": 9.680121, "lng": 9.680121}, "northEast": {"lat": 114.376475, "lng": 9.680121}}}, {"name": "Philippines", "iso": "PHL", "bounds": {"southWest": {"lat": 4.796861, "lng": 4.796861}, "northEast": {"lat": 119.849783, "lng": 4.796861}}}, {"name": "Palau", "iso": "PLW", "bounds": {"southWest": {"lat": 2.960435, "lng": 2.960435}, "northEast": {"lat": 131.812999, "lng": 2.960435}}}, {"name": "Papua New Guinea", "iso": "PNG", "bounds": {"southWest": {"lat": -11.353448, "lng": -11.353448}, "northEast": {"lat": 153.257823, "lng": -11.353448}}}, {"name": "Poland", "iso": "POL", "bounds": {"southWest": {"lat": 54.344916, "lng": 54.344916}, "northEast": {"lat": 19.002126, "lng": 54.344916}}}, {"name": "Puerto Rico", "iso": "PRI", "bounds": {"southWest": {"lat": 18.053453, "lng": 18.053453}, "northEast": {"lat": -67.873158, "lng": 18.053453}}}, {"name": "North Korea", "iso": "PRK", "bounds": {"southWest": {"lat": 37.7414, "lng": 37.7414}, "northEast": {"lat": 125.312755, "lng": 37.7414}}}, {"name": "Portugal", "iso": "PRT", "bounds": {"southWest": {"lat": 30.032294, "lng": 30.032294}, "northEast": {"lat": -16.023101, "lng": 30.032294}}}, {"name": "Paraguay", "iso": "PRY", "bounds": {"southWest": {"lat": -20.165125, "lng": -20.165125}, "northEast": {"lat": -58.158797, "lng": -20.165125}}}, {"name": "Palestine", "iso": "PSE", "bounds": {"southWest": {"lat": 31.224193, "lng": 31.224193}, "northEast": {"lat": 34.264399, "lng": 31.224193}}}, {"name": "French Polynesia", "iso": "PYF", "bounds": {"southWest": {"lat": -27.640069, "lng": -27.640069}, "northEast": {"lat": -144.312734, "lng": -27.640069}}}, {"name": "Qatar", "iso": "QAT", "bounds": {"southWest": {"lat": 24.62585, "lng": 24.62585}, "northEast": {"lat": 51.215258, "lng": 24.62585}}}, {"name": "Romania", "iso": "ROU", "bounds": {"southWest": {"lat": 48.259769, "lng": 48.259769}, "northEast": {"lat": 26.722379, "lng": 48.259769}}}, {"name": "Russia", "iso": "RUS", "bounds": {"southWest": {"lat": 42.845404, "lng": 42.845404}, "northEast": {"lat": 132.448985, "lng": 42.845404}}}, {"name": "Rwanda", "iso": "RWA", "bounds": {"southWest": {"lat": -1.066837, "lng": -1.066837}, "northEast": {"lat": 30.471786, "lng": -1.066837}}}, {"name": "Western Sahara", "iso": "ESH", "bounds": {"southWest": {"lat": 27.661439, "lng": 27.661439}, "northEast": {"lat": -8.752562, "lng": 27.661439}}}, {"name": "Saudi Arabia", "iso": "SAU", "bounds": {"southWest": {"lat": 16.751484, "lng": 16.751484}, "northEast": {"lat": 41.898467, "lng": 16.751484}}}, {"name": "Scarborough Reef", "iso": "-99", "bounds": {"southWest": {"lat": 15.154369, "lng": 15.154369}, "northEast": {"lat": 117.753887, "lng": 15.154369}}}, {"name": "Sudan", "iso": "SDN", "bounds": {"southWest": {"lat": 20.749986, "lng": 20.749986}, "northEast": {"lat": 37.264496, "lng": 20.749986}}}, {"name": "South Sudan", "iso": "SSD", "bounds": {"southWest": {"lat": 9.838341, "lng": 9.838341}, "northEast": {"lat": 33.96912, "lng": 9.838341}}}, {"name": "Senegal", "iso": "SEN", "bounds": {"southWest": {"lat": 16.640639, "lng": 16.640639}, "northEast": {"lat": -14.912496, "lng": 16.640639}}}, {"name": "Serranilla Bank", "iso": "-99", "bounds": {"southWest": {"lat": 15.862087, "lng": 15.862087}, "northEast": {"lat": -78.637074, "lng": 15.862087}}}, {"name": "Singapore", "iso": "SGP", "bounds": {"southWest": {"lat": 1.391099, "lng": 1.391099}, "northEast": {"lat": 103.960785, "lng": 1.391099}}}, {"name": "South Georgia and South Sandwich Islands", "iso": "SGS", "bounds": {"southWest": {"lat": -59.470798, "lng": -59.470798}, "northEast": {"lat": -27.152943, "lng": -59.470798}}}, {"name": "Saint Helena", "iso": "SHN", "bounds": {"southWest": {"lat": -40.386407, "lng": -40.386407}, "northEast": {"lat": -9.895375, "lng": -40.386407}}}, {"name": "Solomon Islands", "iso": "SLB", "bounds": {"southWest": {"lat": -12.284926, "lng": -12.284926}, "northEast": {"lat": 168.818614, "lng": -12.284926}}}, {"name": "Sierra Leone", "iso": "SLE", "bounds": {"southWest": {"lat": 7.612738, "lng": 7.612738}, "northEast": {"lat": -12.595855, "lng": 7.612738}}}, {"name": "El Salvador", "iso": "SLV", "bounds": {"southWest": {"lat": 13.178064, "lng": 13.178064}, "northEast": {"lat": -87.696996, "lng": 13.178064}}}, {"name": "San Marino", "iso": "SMR", "bounds": {"southWest": {"lat": 43.892056, "lng": 43.892056}, "northEast": {"lat": 12.42945, "lng": 43.892056}}}, {"name": "Somaliland", "iso": "-99", "bounds": {"southWest": {"lat": 11.24913, "lng": 11.24913}, "northEast": {"lat": 48.939112, "lng": 11.24913}}}, {"name": "Somalia", "iso": "SOM", "bounds": {"southWest": {"lat": 11.989119, "lng": 11.989119}, "northEast": {"lat": 50.797864, "lng": 11.989119}}}, {"name": "Saint Pierre and Miquelon", "iso": "SPM", "bounds": {"southWest": {"lat": 46.75727, "lng": 46.75727}, "northEast": {"lat": -56.16808, "lng": 46.75727}}}, {"name": "Republic of Serbia", "iso": "SRB", "bounds": {"southWest": {"lat": 46.168398, "lng": 46.168398}, "northEast": {"lat": 19.690095, "lng": 46.168398}}}, {"name": "Sao Tome and Principe", "iso": "STP", "bounds": {"southWest": {"lat": 0.078111, "lng": 0.078111}, "northEast": {"lat": 6.616222, "lng": 0.078111}}}, {"name": "Suriname", "iso": "SUR", "bounds": {"southWest": {"lat": 5.348376, "lng": 5.348376}, "northEast": {"lat": -54.170965, "lng": 5.348376}}}, {"name": "Slovakia", "iso": "SVK", "bounds": {"southWest": {"lat": 49.387529, "lng": 49.387529}, "northEast": {"lat": 19.706321, "lng": 49.387529}}}, {"name": "Slovenia", "iso": "SVN", "bounds": {"southWest": {"lat": 46.714178, "lng": 46.714178}, "northEast": {"lat": 16.343426, "lng": 46.714178}}}, {"name": "Sweden", "iso": "SWE", "bounds": {"southWest": {"lat": 56.120103, "lng": 56.120103}, "northEast": {"lat": 15.675304, "lng": 56.120103}}}, {"name": "Swaziland", "iso": "SWZ", "bounds": {"southWest": {"lat": -25.989937, "lng": -25.989937}, "northEast": {"lat": 31.863357, "lng": -25.989937}}}, {"name": "Sint Maarten", "iso": "SXM", "bounds": {"southWest": {"lat": 18.033391, "lng": 18.033391}, "northEast": {"lat": -63.017569, "lng": 18.033391}}}, {"name": "Seychelles", "iso": "SYC", "bounds": {"southWest": {"lat": -9.746515, "lng": -9.746515}, "northEast": {"lat": 46.500662, "lng": -9.746515}}}, {"name": "Syria", "iso": "SYR", "bounds": {"southWest": {"lat": 37.286304, "lng": 37.286304}, "northEast": {"lat": 42.236832, "lng": 37.286304}}}, {"name": "Turks and Caicos Islands", "iso": "TCA", "bounds": {"southWest": {"lat": 21.298896, "lng": 21.298896}, "northEast": {"lat": -71.678619, "lng": 21.298896}}}, {"name": "Chad", "iso": "TCD", "bounds": {"southWest": {"lat": 19.496124, "lng": 19.496124}, "northEast": {"lat": 23.981306, "lng": 19.496124}}}, {"name": "Togo", "iso": "TGO", "bounds": {"southWest": {"lat": 10.933236, "lng": 10.933236}, "northEast": {"lat": 0.487649, "lng": 10.933236}}}, {"name": "Thailand", "iso": "THA", "bounds": {"southWest": {"lat": 6.574856, "lng": 6.574856}, "northEast": {"lat": 99.247813, "lng": 6.574856}}}, {"name": "Tajikistan", "iso": "TJK", "bounds": {"southWest": {"lat": 39.850695, "lng": 39.850695}, "northEast": {"lat": 70.619906, "lng": 39.850695}}}, {"name": "Turkmenistan", "iso": "TKM", "bounds": {"southWest": {"lat": 38.755072, "lng": 38.755072}, "northEast": {"lat": 53.102061, "lng": 38.755072}}}, {"name": "East Timor", "iso": "TLS", "bounds": {"southWest": {"lat": -9.364182, "lng": -9.364182}, "northEast": {"lat": 124.354559, "lng": -9.364182}}}, {"name": "Tonga", "iso": "TON", "bounds": {"southWest": {"lat": -22.3388, "lng": -22.3388}, "northEast": {"lat": -176.207021, "lng": -22.3388}}}, {"name": "Trinidad and Tobago", "iso": "TTO", "bounds": {"southWest": {"lat": 10.837144, "lng": 10.837144}, "northEast": {"lat": -60.907297, "lng": 10.837144}}}, {"name": "Tunisia", "iso": "TUN", "bounds": {"southWest": {"lat": 33.896308, "lng": 33.896308}, "northEast": {"lat": 10.929942, "lng": 33.896308}}}, {"name": "Turkey", "iso": "TUR", "bounds": {"southWest": {"lat": 39.845038, "lng": 39.845038}, "northEast": {"lat": 26.04005, "lng": 39.845038}}}, {"name": "Tuvalu", "iso": "TUV", "bounds": {"southWest": {"lat": -9.418634, "lng": -9.418634}, "northEast": {"lat": 179.906098, "lng": -9.418634}}}, {"name": "Taiwan", "iso": "TWN", "bounds": {"southWest": {"lat": 22.013861, "lng": 22.013861}, "northEast": {"lat": 121.587657, "lng": 22.013861}}}, {"name": "United Republic of Tanzania", "iso": "TZA", "bounds": {"southWest": {"lat": -8.065492, "lng": -8.065492}, "northEast": {"lat": 39.749165, "lng": -8.065492}}}, {"name": "Uganda", "iso": "UGA", "bounds": {"southWest": {"lat": 3.868938, "lng": 3.868938}, "northEast": {"lat": 34.108026, "lng": 3.868938}}}, {"name": "Ukraine", "iso": "UKR", "bounds": {"southWest": {"lat": 45.614325, "lng": 45.614325}, "northEast": {"lat": 29.807465, "lng": 45.614325}}}, {"name": "United States Minor Outlying Islands", "iso": "UMI", "bounds": {"southWest": {"lat": -0.382094, "lng": -0.382094}, "northEast": {"lat": -160.012441, "lng": -0.382094}}}, {"name": "Uruguay", "iso": "URY", "bounds": {"southWest": {"lat": -30.108549, "lng": -30.108549}, "northEast": {"lat": -56.906367, "lng": -30.108549}}}, {"name": "United States of America", "iso": "USA", "bounds": {"southWest": {"lat": 20.137956, "lng": 20.137956}, "northEast": {"lat": -155.606519, "lng": 20.137956}}}, {"name": "US Naval Base Guantanamo Bay", "iso": "-99", "bounds": {"southWest": {"lat": 19.933594, "lng": 19.933594}, "northEast": {"lat": -75.183955, "lng": 19.933594}}}, {"name": "Uzbekistan", "iso": "UZB", "bounds": {"southWest": {"lat": 39.903095, "lng": 39.903095}, "northEast": {"lat": 71.757304, "lng": 39.903095}}}, {"name": "Vatican", "iso": "VAT", "bounds": {"southWest": {"lat": 41.902752, "lng": 41.902752}, "northEast": {"lat": 12.453137, "lng": 41.902752}}}, {"name": "Saint Vincent and the Grenadines", "iso": "VCT", "bounds": {"southWest": {"lat": 12.587836, "lng": 12.587836}, "northEast": {"lat": -61.432729, "lng": 12.587836}}}, {"name": "Venezuela", "iso": "VEN", "bounds": {"southWest": {"lat": 8.580581, "lng": 8.580581}, "northEast": {"lat": -61.390271, "lng": 8.580581}}}, {"name": "British Virgin Islands", "iso": "VGB", "bounds": {"southWest": {"lat": 18.337388, "lng": 18.337388}, "northEast": {"lat": -64.56786, "lng": 18.337388}}}, {"name": "United States Virgin Islands", "iso": "VIR", "bounds": {"southWest": {"lat": 17.765286, "lng": 17.765286}, "northEast": {"lat": -64.730784, "lng": 17.765286}}}, {"name": "Vietnam", "iso": "VNM", "bounds": {"southWest": {"lat": 8.753485, "lng": 8.753485}, "northEast": {"lat": 106.668712, "lng": 8.753485}}}, {"name": "Vanuatu", "iso": "VUT", "bounds": {"southWest": {"lat": -20.24863, "lng": -20.24863}, "northEast": {"lat": 169.838145, "lng": -20.24863}}}, {"name": "Wallis and Futuna", "iso": "WLF", "bounds": {"southWest": {"lat": -14.312595, "lng": -14.312595}, "northEast": {"lat": -178.046742, "lng": -14.312595}}}, {"name": "Akrotiri Sovereign Base Area", "iso": "-99", "bounds": {"southWest": {"lat": 34.699467, "lng": 34.699467}, "northEast": {"lat": 32.840809, "lng": 34.699467}}}, {"name": "Samoa", "iso": "WSM", "bounds": {"southWest": {"lat": -13.938165, "lng": -13.938165}, "northEast": {"lat": -171.570017, "lng": -13.938165}}}, {"name": "Yemen", "iso": "YEM", "bounds": {"southWest": {"lat": 12.118395, "lng": 12.118395}, "northEast": {"lat": 53.308239, "lng": 12.118395}}}, {"name": "South Africa", "iso": "ZAF", "bounds": {"southWest": {"lat": -46.940851, "lng": -46.940851}, "northEast": {"lat": 37.86378, "lng": -46.940851}}}, {"name": "Zambia", "iso": "ZMB", "bounds": {"southWest": {"lat": -8.616631, "lng": -8.616631}, "northEast": {"lat": 31.119836, "lng": -8.616631}}}, {"name": "Zimbabwe", "iso": "ZWE", "bounds": {"southWest": {"lat": -15.646227, "lng": -15.646227}, "northEast": {"lat": 30.010654, "lng": -15.646227}}}]
+[
+  {
+    "name": "Aruba",
+    "iso": "ABW",
+    "bounds": {
+      "southWest": {
+        "lat": -70.062408,
+        "lng": 12.41767
+      },
+      "northEast": {
+        "lat": -69.87682,
+        "lng": 12.632148
+      }
+    }
+  },
+  {
+    "name": "Afghanistan",
+    "iso": "AFG",
+    "bounds": {
+      "southWest": {
+        "lat": 60.486778,
+        "lng": 29.386605
+      },
+      "northEast": {
+        "lat": 74.892307,
+        "lng": 38.473673
+      }
+    }
+  },
+  {
+    "name": "Angola",
+    "iso": "AGO",
+    "bounds": {
+      "southWest": {
+        "lat": 11.669394,
+        "lng": -18.031405
+      },
+      "northEast": {
+        "lat": 24.061714,
+        "lng": -4.391204
+      }
+    }
+  },
+  {
+    "name": "Anguilla",
+    "iso": "AIA",
+    "bounds": {
+      "southWest": {
+        "lat": -63.428822,
+        "lng": 18.169094
+      },
+      "northEast": {
+        "lat": -62.972646,
+        "lng": 18.601264
+      }
+    }
+  },
+  {
+    "name": "Albania",
+    "iso": "ALB",
+    "bounds": {
+      "southWest": {
+        "lat": 19.272033,
+        "lng": 39.637013
+      },
+      "northEast": {
+        "lat": 21.036679,
+        "lng": 42.654814
+      }
+    }
+  },
+  {
+    "name": "Aland",
+    "iso": "ALA",
+    "bounds": {
+      "southWest": {
+        "lat": 19.513194,
+        "lng": 59.904486
+      },
+      "northEast": {
+        "lat": 21.09669,
+        "lng": 60.48078
+      }
+    }
+  },
+  {
+    "name": "Andorra",
+    "iso": "AND",
+    "bounds": {
+      "southWest": {
+        "lat": 1.406456,
+        "lng": 42.428677
+      },
+      "northEast": {
+        "lat": 1.765091,
+        "lng": 42.649362
+      }
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso": "ARE",
+    "bounds": {
+      "southWest": {
+        "lat": 51.569347,
+        "lng": 22.620946
+      },
+      "northEast": {
+        "lat": 56.383637,
+        "lng": 26.074792
+      }
+    }
+  },
+  {
+    "name": "Argentina",
+    "iso": "ARG",
+    "bounds": {
+      "southWest": {
+        "lat": -73.588036,
+        "lng": -55.052016
+      },
+      "northEast": {
+        "lat": -53.661552,
+        "lng": -21.786938
+      }
+    }
+  },
+  {
+    "name": "Armenia",
+    "iso": "ARM",
+    "bounds": {
+      "southWest": {
+        "lat": 43.436294,
+        "lng": 38.863701
+      },
+      "northEast": {
+        "lat": 46.602612,
+        "lng": 41.290452
+      }
+    }
+  },
+  {
+    "name": "American Samoa",
+    "iso": "ASM",
+    "bounds": {
+      "southWest": {
+        "lat": -171.086537,
+        "lng": -14.532892
+      },
+      "northEast": {
+        "lat": -168.160471,
+        "lng": -11.051365
+      }
+    }
+  },
+  {
+    "name": "Antarctica",
+    "iso": "ATA",
+    "bounds": {
+      "southWest": {
+        "lat": -180.0,
+        "lng": -90.0
+      },
+      "northEast": {
+        "lat": 180.0,
+        "lng": -60.516209
+      }
+    }
+  },
+  {
+    "name": "Ashmore and Cartier Islands",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 123.575043,
+        "lng": -12.438572
+      },
+      "northEast": {
+        "lat": 123.597748,
+        "lng": -12.426609
+      }
+    }
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "iso": "ATF",
+    "bounds": {
+      "southWest": {
+        "lat": 39.728282,
+        "lng": -49.721612
+      },
+      "northEast": {
+        "lat": 77.585216,
+        "lng": -11.550632
+      }
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "iso": "ATG",
+    "bounds": {
+      "southWest": {
+        "lat": -61.894154,
+        "lng": 16.989244
+      },
+      "northEast": {
+        "lat": -61.667592,
+        "lng": 17.727688
+      }
+    }
+  },
+  {
+    "name": "Australia",
+    "iso": "AUS",
+    "bounds": {
+      "southWest": {
+        "lat": 112.919444,
+        "lng": -54.750421
+      },
+      "northEast": {
+        "lat": 159.106456,
+        "lng": -9.240167
+      }
+    }
+  },
+  {
+    "name": "Austria",
+    "iso": "AUT",
+    "bounds": {
+      "southWest": {
+        "lat": 9.521155,
+        "lng": 46.378643
+      },
+      "northEast": {
+        "lat": 17.148338,
+        "lng": 49.009774
+      }
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "iso": "AZE",
+    "bounds": {
+      "southWest": {
+        "lat": 44.774559,
+        "lng": 38.392645
+      },
+      "northEast": {
+        "lat": 50.625743,
+        "lng": 41.890442
+      }
+    }
+  },
+  {
+    "name": "Burundi",
+    "iso": "BDI",
+    "bounds": {
+      "southWest": {
+        "lat": 28.986892,
+        "lng": -4.463344
+      },
+      "northEast": {
+        "lat": 30.833962,
+        "lng": -2.303062
+      }
+    }
+  },
+  {
+    "name": "Belgium",
+    "iso": "BEL",
+    "bounds": {
+      "southWest": {
+        "lat": 2.5218,
+        "lng": 49.495223
+      },
+      "northEast": {
+        "lat": 6.374525,
+        "lng": 51.496238
+      }
+    }
+  },
+  {
+    "name": "Benin",
+    "iso": "BEN",
+    "bounds": {
+      "southWest": {
+        "lat": 0.759881,
+        "lng": 6.213899
+      },
+      "northEast": {
+        "lat": 3.837419,
+        "lng": 12.399244
+      }
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "iso": "BFA",
+    "bounds": {
+      "southWest": {
+        "lat": -5.522578,
+        "lng": 9.391883
+      },
+      "northEast": {
+        "lat": 2.390169,
+        "lng": 15.079908
+      }
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "iso": "BGD",
+    "bounds": {
+      "southWest": {
+        "lat": 88.02179,
+        "lng": 20.738715
+      },
+      "northEast": {
+        "lat": 92.642851,
+        "lng": 26.623544
+      }
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "iso": "BGR",
+    "bounds": {
+      "southWest": {
+        "lat": 22.345023,
+        "lng": 41.238104
+      },
+      "northEast": {
+        "lat": 28.603526,
+        "lng": 44.228435
+      }
+    }
+  },
+  {
+    "name": "Bahrain",
+    "iso": "BHR",
+    "bounds": {
+      "southWest": {
+        "lat": 50.448904,
+        "lng": 25.789537
+      },
+      "northEast": {
+        "lat": 50.64566,
+        "lng": 26.24258
+      }
+    }
+  },
+  {
+    "name": "The Bahamas",
+    "iso": "BHS",
+    "bounds": {
+      "southWest": {
+        "lat": -79.59435,
+        "lng": 20.912399
+      },
+      "northEast": {
+        "lat": -72.746165,
+        "lng": 26.928412
+      }
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "iso": "BIH",
+    "bounds": {
+      "southWest": {
+        "lat": 15.716074,
+        "lng": 42.559212
+      },
+      "northEast": {
+        "lat": 19.618885,
+        "lng": 45.284524
+      }
+    }
+  },
+  {
+    "name": "Bajo Nuevo Bank (Petrel Is.)",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": -79.989288,
+        "lng": 15.794176
+      },
+      "northEast": {
+        "lat": -79.986399,
+        "lng": 15.79621
+      }
+    }
+  },
+  {
+    "name": "Saint Barthelemy",
+    "iso": "BLM",
+    "bounds": {
+      "southWest": {
+        "lat": -62.86734,
+        "lng": 17.881985
+      },
+      "northEast": {
+        "lat": -62.791656,
+        "lng": 17.929145
+      }
+    }
+  },
+  {
+    "name": "Belarus",
+    "iso": "BLR",
+    "bounds": {
+      "southWest": {
+        "lat": 23.165645,
+        "lng": 51.235168
+      },
+      "northEast": {
+        "lat": 32.719532,
+        "lng": 56.156806
+      }
+    }
+  },
+  {
+    "name": "Belize",
+    "iso": "BLZ",
+    "bounds": {
+      "southWest": {
+        "lat": -89.236512,
+        "lng": 15.879652
+      },
+      "northEast": {
+        "lat": -87.78307,
+        "lng": 18.490759
+      }
+    }
+  },
+  {
+    "name": "Bermuda",
+    "iso": "BMU",
+    "bounds": {
+      "southWest": {
+        "lat": -64.885994,
+        "lng": 32.248077
+      },
+      "northEast": {
+        "lat": -64.647631,
+        "lng": 32.388658
+      }
+    }
+  },
+  {
+    "name": "Bolivia",
+    "iso": "BOL",
+    "bounds": {
+      "southWest": {
+        "lat": -69.666492,
+        "lng": -22.897258
+      },
+      "northEast": {
+        "lat": -57.465661,
+        "lng": -9.679821
+      }
+    }
+  },
+  {
+    "name": "Brazil",
+    "iso": "BRA",
+    "bounds": {
+      "southWest": {
+        "lat": -74.018475,
+        "lng": -33.74228
+      },
+      "northEast": {
+        "lat": -28.877065,
+        "lng": 5.267225
+      }
+    }
+  },
+  {
+    "name": "Barbados",
+    "iso": "BRB",
+    "bounds": {
+      "southWest": {
+        "lat": -59.654205,
+        "lng": 13.051174
+      },
+      "northEast": {
+        "lat": -59.42691,
+        "lng": 13.34455
+      }
+    }
+  },
+  {
+    "name": "Brunei",
+    "iso": "BRN",
+    "bounds": {
+      "southWest": {
+        "lat": 113.99879,
+        "lng": 4.016681
+      },
+      "northEast": {
+        "lat": 115.360741,
+        "lng": 5.057196
+      }
+    }
+  },
+  {
+    "name": "Bhutan",
+    "iso": "BTN",
+    "bounds": {
+      "southWest": {
+        "lat": 88.730067,
+        "lng": 26.696149
+      },
+      "northEast": {
+        "lat": 92.088776,
+        "lng": 28.358399
+      }
+    }
+  },
+  {
+    "name": "Botswana",
+    "iso": "BWA",
+    "bounds": {
+      "southWest": {
+        "lat": 19.978346,
+        "lng": -26.891794
+      },
+      "northEast": {
+        "lat": 29.350074,
+        "lng": -17.781808
+      }
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "iso": "CAF",
+    "bounds": {
+      "southWest": {
+        "lat": 14.387266,
+        "lng": 2.236454
+      },
+      "northEast": {
+        "lat": 27.441301,
+        "lng": 11.000828
+      }
+    }
+  },
+  {
+    "name": "Canada",
+    "iso": "CAN",
+    "bounds": {
+      "southWest": {
+        "lat": -141.005549,
+        "lng": 41.669086
+      },
+      "northEast": {
+        "lat": -52.616607,
+        "lng": 83.116523
+      }
+    }
+  },
+  {
+    "name": "Switzerland",
+    "iso": "CHE",
+    "bounds": {
+      "southWest": {
+        "lat": 5.954809,
+        "lng": 45.820718
+      },
+      "northEast": {
+        "lat": 10.466627,
+        "lng": 47.801166
+      }
+    }
+  },
+  {
+    "name": "Chile",
+    "iso": "CHL",
+    "bounds": {
+      "southWest": {
+        "lat": -109.453725,
+        "lng": -55.918504
+      },
+      "northEast": {
+        "lat": -66.420806,
+        "lng": -17.506588
+      }
+    }
+  },
+  {
+    "name": "China",
+    "iso": "CHN",
+    "bounds": {
+      "southWest": {
+        "lat": 73.602256,
+        "lng": 15.775377
+      },
+      "northEast": {
+        "lat": 134.772579,
+        "lng": 53.569444
+      }
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "iso": "CIV",
+    "bounds": {
+      "southWest": {
+        "lat": -8.61872,
+        "lng": 4.344062
+      },
+      "northEast": {
+        "lat": -2.506328,
+        "lng": 10.726478
+      }
+    }
+  },
+  {
+    "name": "Clipperton Island",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": -109.234242,
+        "lng": 10.281562
+      },
+      "northEast": {
+        "lat": -109.210357,
+        "lng": 10.311021
+      }
+    }
+  },
+  {
+    "name": "Cameroon",
+    "iso": "CMR",
+    "bounds": {
+      "southWest": {
+        "lat": 8.505056,
+        "lng": 1.654551
+      },
+      "northEast": {
+        "lat": 16.207723,
+        "lng": 13.081141
+      }
+    }
+  },
+  {
+    "name": "Cyprus No Mans Area",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 32.584809,
+        "lng": 34.977763
+      },
+      "northEast": {
+        "lat": 34.021961,
+        "lng": 35.199403
+      }
+    }
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "iso": "COD",
+    "bounds": {
+      "southWest": {
+        "lat": 12.210555,
+        "lng": -13.458351
+      },
+      "northEast": {
+        "lat": 31.280447,
+        "lng": 5.37528
+      }
+    }
+  },
+  {
+    "name": "Republic of Congo",
+    "iso": "COG",
+    "bounds": {
+      "southWest": {
+        "lat": 11.114016,
+        "lng": -5.019631
+      },
+      "northEast": {
+        "lat": 18.642407,
+        "lng": 3.708276
+      }
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "iso": "COK",
+    "bounds": {
+      "southWest": {
+        "lat": -165.824534,
+        "lng": -21.938897
+      },
+      "northEast": {
+        "lat": -157.312815,
+        "lng": -8.94671
+      }
+    }
+  },
+  {
+    "name": "Colombia",
+    "iso": "COL",
+    "bounds": {
+      "southWest": {
+        "lat": -81.723704,
+        "lng": -4.236484
+      },
+      "northEast": {
+        "lat": -66.875061,
+        "lng": 13.578355
+      }
+    }
+  },
+  {
+    "name": "Comoros",
+    "iso": "COM",
+    "bounds": {
+      "southWest": {
+        "lat": 43.213227,
+        "lng": -12.380304
+      },
+      "northEast": {
+        "lat": 44.529063,
+        "lng": -11.361261
+      }
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "iso": "CPV",
+    "bounds": {
+      "southWest": {
+        "lat": -25.360422,
+        "lng": 14.803941
+      },
+      "northEast": {
+        "lat": -22.666575,
+        "lng": 17.196601
+      }
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "iso": "CRI",
+    "bounds": {
+      "southWest": {
+        "lat": -87.117665,
+        "lng": 5.515082
+      },
+      "northEast": {
+        "lat": -82.562837,
+        "lng": 11.209937
+      }
+    }
+  },
+  {
+    "name": "Coral Sea Islands",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 154.38852,
+        "lng": -21.030043
+      },
+      "northEast": {
+        "lat": 154.391287,
+        "lng": -21.028741
+      }
+    }
+  },
+  {
+    "name": "Cuba",
+    "iso": "CUB",
+    "bounds": {
+      "southWest": {
+        "lat": -84.949615,
+        "lng": 19.827826
+      },
+      "northEast": {
+        "lat": -74.132883,
+        "lng": 23.26557
+      }
+    }
+  },
+  {
+    "name": "Cura\u00e7ao",
+    "iso": "CUW",
+    "bounds": {
+      "southWest": {
+        "lat": -69.171742,
+        "lng": 12.041327
+      },
+      "northEast": {
+        "lat": -68.739735,
+        "lng": 12.391506
+      }
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "iso": "CYM",
+    "bounds": {
+      "southWest": {
+        "lat": -81.416542,
+        "lng": 19.263864
+      },
+      "northEast": {
+        "lat": -79.726643,
+        "lng": 19.757631
+      }
+    }
+  },
+  {
+    "name": "Northern Cyprus",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 32.601915,
+        "lng": 35.002722
+      },
+      "northEast": {
+        "lat": 34.59254,
+        "lng": 35.691962
+      }
+    }
+  },
+  {
+    "name": "Cyprus",
+    "iso": "CYP",
+    "bounds": {
+      "southWest": {
+        "lat": 32.271739,
+        "lng": 34.625019
+      },
+      "northEast": {
+        "lat": 34.099132,
+        "lng": 35.187082
+      }
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "iso": "CZE",
+    "bounds": {
+      "southWest": {
+        "lat": 12.076141,
+        "lng": 48.557916
+      },
+      "northEast": {
+        "lat": 18.837434,
+        "lng": 51.040012
+      }
+    }
+  },
+  {
+    "name": "Germany",
+    "iso": "DEU",
+    "bounds": {
+      "southWest": {
+        "lat": 5.85249,
+        "lng": 47.271121
+      },
+      "northEast": {
+        "lat": 15.022059,
+        "lng": 55.065334
+      }
+    }
+  },
+  {
+    "name": "Djibouti",
+    "iso": "DJI",
+    "bounds": {
+      "southWest": {
+        "lat": 41.74911,
+        "lng": 10.929825
+      },
+      "northEast": {
+        "lat": 43.418712,
+        "lng": 12.707913
+      }
+    }
+  },
+  {
+    "name": "Dominica",
+    "iso": "DMA",
+    "bounds": {
+      "southWest": {
+        "lat": -61.488922,
+        "lng": 15.201809
+      },
+      "northEast": {
+        "lat": -61.249257,
+        "lng": 15.633857
+      }
+    }
+  },
+  {
+    "name": "Denmark",
+    "iso": "DNK",
+    "bounds": {
+      "southWest": {
+        "lat": 8.094005,
+        "lng": 54.56859
+      },
+      "northEast": {
+        "lat": 15.151378,
+        "lng": 57.751166
+      }
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "iso": "DOM",
+    "bounds": {
+      "southWest": {
+        "lat": -72.009838,
+        "lng": 17.545559
+      },
+      "northEast": {
+        "lat": -68.328603,
+        "lng": 19.93769
+      }
+    }
+  },
+  {
+    "name": "Algeria",
+    "iso": "DZA",
+    "bounds": {
+      "southWest": {
+        "lat": -8.682385,
+        "lng": 18.975561
+      },
+      "northEast": {
+        "lat": 11.968861,
+        "lng": 37.09394
+      }
+    }
+  },
+  {
+    "name": "Ecuador",
+    "iso": "ECU",
+    "bounds": {
+      "southWest": {
+        "lat": -92.011586,
+        "lng": -5.011373
+      },
+      "northEast": {
+        "lat": -75.227264,
+        "lng": 1.664374
+      }
+    }
+  },
+  {
+    "name": "Egypt",
+    "iso": "EGY",
+    "bounds": {
+      "southWest": {
+        "lat": 24.688343,
+        "lng": 21.994369
+      },
+      "northEast": {
+        "lat": 36.899181,
+        "lng": 31.65648
+      }
+    }
+  },
+  {
+    "name": "Eritrea",
+    "iso": "ERI",
+    "bounds": {
+      "southWest": {
+        "lat": 36.423647,
+        "lng": 12.360022
+      },
+      "northEast": {
+        "lat": 43.123871,
+        "lng": 18.004828
+      }
+    }
+  },
+  {
+    "name": "Dhekelia Sovereign Base Area",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 33.674099,
+        "lng": 34.937893
+      },
+      "northEast": {
+        "lat": 33.921474,
+        "lng": 35.118994
+      }
+    }
+  },
+  {
+    "name": "Spain",
+    "iso": "ESP",
+    "bounds": {
+      "southWest": {
+        "lat": -18.167226,
+        "lng": 27.642239
+      },
+      "northEast": {
+        "lat": 4.337087,
+        "lng": 43.793443
+      }
+    }
+  },
+  {
+    "name": "Estonia",
+    "iso": "EST",
+    "bounds": {
+      "southWest": {
+        "lat": 21.832367,
+        "lng": 57.515819
+      },
+      "northEast": {
+        "lat": 28.186475,
+        "lng": 59.670885
+      }
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "iso": "ETH",
+    "bounds": {
+      "southWest": {
+        "lat": 32.9898,
+        "lng": 3.403333
+      },
+      "northEast": {
+        "lat": 47.979169,
+        "lng": 14.879532
+      }
+    }
+  },
+  {
+    "name": "Finland",
+    "iso": "FIN",
+    "bounds": {
+      "southWest": {
+        "lat": 20.623165,
+        "lng": 59.811225
+      },
+      "northEast": {
+        "lat": 31.569525,
+        "lng": 70.07531
+      }
+    }
+  },
+  {
+    "name": "Fiji",
+    "iso": "FJI",
+    "bounds": {
+      "southWest": {
+        "lat": -180.0,
+        "lng": -21.711114
+      },
+      "northEast": {
+        "lat": 180.0,
+        "lng": -12.475274
+      }
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "iso": "FLK",
+    "bounds": {
+      "southWest": {
+        "lat": -61.318186,
+        "lng": -52.406523
+      },
+      "northEast": {
+        "lat": -57.734283,
+        "lng": -51.027765
+      }
+    }
+  },
+  {
+    "name": "France",
+    "iso": "FRA",
+    "bounds": {
+      "southWest": {
+        "lat": -61.797841,
+        "lng": -21.370782
+      },
+      "northEast": {
+        "lat": 55.854503,
+        "lng": 51.087541
+      }
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "iso": "FRO",
+    "bounds": {
+      "southWest": {
+        "lat": -7.644154,
+        "lng": 61.39411
+      },
+      "northEast": {
+        "lat": -6.275787,
+        "lng": 62.398912
+      }
+    }
+  },
+  {
+    "name": "Federated States of Micronesia",
+    "iso": "FSM",
+    "bounds": {
+      "southWest": {
+        "lat": 138.063813,
+        "lng": 0.918158
+      },
+      "northEast": {
+        "lat": 163.04656,
+        "lng": 9.77558
+      }
+    }
+  },
+  {
+    "name": "Gabon",
+    "iso": "GAB",
+    "bounds": {
+      "southWest": {
+        "lat": 8.695567,
+        "lng": -3.936856
+      },
+      "northEast": {
+        "lat": 14.498991,
+        "lng": 2.322495
+      }
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "iso": "GBR",
+    "bounds": {
+      "southWest": {
+        "lat": -13.691314,
+        "lng": 49.909613
+      },
+      "northEast": {
+        "lat": 1.771169,
+        "lng": 60.847886
+      }
+    }
+  },
+  {
+    "name": "Georgia",
+    "iso": "GEO",
+    "bounds": {
+      "southWest": {
+        "lat": 39.985976,
+        "lng": 41.044111
+      },
+      "northEast": {
+        "lat": 46.694803,
+        "lng": 43.575843
+      }
+    }
+  },
+  {
+    "name": "Guernsey",
+    "iso": "GGY",
+    "bounds": {
+      "southWest": {
+        "lat": -2.673451,
+        "lng": 49.411566
+      },
+      "northEast": {
+        "lat": -2.170318,
+        "lng": 49.731391
+      }
+    }
+  },
+  {
+    "name": "Ghana",
+    "iso": "GHA",
+    "bounds": {
+      "southWest": {
+        "lat": -3.262509,
+        "lng": 4.737128
+      },
+      "northEast": {
+        "lat": 1.187968,
+        "lng": 11.162937
+      }
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "iso": "GIB",
+    "bounds": {
+      "southWest": {
+        "lat": -5.358387,
+        "lng": 36.1105
+      },
+      "northEast": {
+        "lat": -5.338773,
+        "lng": 36.14112
+      }
+    }
+  },
+  {
+    "name": "Guinea",
+    "iso": "GIN",
+    "bounds": {
+      "southWest": {
+        "lat": -15.081125,
+        "lng": 7.190208
+      },
+      "northEast": {
+        "lat": -7.662447,
+        "lng": 12.673388
+      }
+    }
+  },
+  {
+    "name": "Gambia",
+    "iso": "GMB",
+    "bounds": {
+      "southWest": {
+        "lat": -16.829701,
+        "lng": 13.065009
+      },
+      "northEast": {
+        "lat": -13.818713,
+        "lng": 13.819984
+      }
+    }
+  },
+  {
+    "name": "Guinea Bissau",
+    "iso": "GNB",
+    "bounds": {
+      "southWest": {
+        "lat": -16.728437,
+        "lng": 10.927639
+      },
+      "northEast": {
+        "lat": -13.660712,
+        "lng": 12.679434
+      }
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "iso": "GNQ",
+    "bounds": {
+      "southWest": {
+        "lat": 5.61199,
+        "lng": -1.475681
+      },
+      "northEast": {
+        "lat": 11.336341,
+        "lng": 3.772406
+      }
+    }
+  },
+  {
+    "name": "Greece",
+    "iso": "GRC",
+    "bounds": {
+      "southWest": {
+        "lat": 19.626475,
+        "lng": 34.815009
+      },
+      "northEast": {
+        "lat": 28.239757,
+        "lng": 41.750476
+      }
+    }
+  },
+  {
+    "name": "Grenada",
+    "iso": "GRD",
+    "bounds": {
+      "southWest": {
+        "lat": -61.790517,
+        "lng": 12.002834
+      },
+      "northEast": {
+        "lat": -61.42162,
+        "lng": 12.529731
+      }
+    }
+  },
+  {
+    "name": "Greenland",
+    "iso": "GRL",
+    "bounds": {
+      "southWest": {
+        "lat": -73.05724,
+        "lng": 59.792629
+      },
+      "northEast": {
+        "lat": -11.37682,
+        "lng": 83.634101
+      }
+    }
+  },
+  {
+    "name": "Guatemala",
+    "iso": "GTM",
+    "bounds": {
+      "southWest": {
+        "lat": -92.246234,
+        "lng": 13.728903
+      },
+      "northEast": {
+        "lat": -88.220922,
+        "lng": 17.81602
+      }
+    }
+  },
+  {
+    "name": "Guam",
+    "iso": "GUM",
+    "bounds": {
+      "southWest": {
+        "lat": 144.624197,
+        "lng": 13.241034
+      },
+      "northEast": {
+        "lat": 144.952159,
+        "lng": 13.65412
+      }
+    }
+  },
+  {
+    "name": "Guyana",
+    "iso": "GUY",
+    "bounds": {
+      "southWest": {
+        "lat": -61.396713,
+        "lng": 1.18582
+      },
+      "northEast": {
+        "lat": -56.481819,
+        "lng": 8.55801
+      }
+    }
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "iso": "HKG",
+    "bounds": {
+      "southWest": {
+        "lat": 113.837332,
+        "lng": 22.177069
+      },
+      "northEast": {
+        "lat": 114.401296,
+        "lng": 22.563946
+      }
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "iso": "HMD",
+    "bounds": {
+      "southWest": {
+        "lat": 73.236013,
+        "lng": -53.19256
+      },
+      "northEast": {
+        "lat": 73.812185,
+        "lng": -52.961602
+      }
+    }
+  },
+  {
+    "name": "Honduras",
+    "iso": "HND",
+    "bounds": {
+      "southWest": {
+        "lat": -89.363791,
+        "lng": 12.979777
+      },
+      "northEast": {
+        "lat": -83.130442,
+        "lng": 17.418647
+      }
+    }
+  },
+  {
+    "name": "Croatia",
+    "iso": "HRV",
+    "bounds": {
+      "southWest": {
+        "lat": 13.501475,
+        "lng": 42.416327
+      },
+      "northEast": {
+        "lat": 19.407838,
+        "lng": 46.546979
+      }
+    }
+  },
+  {
+    "name": "Haiti",
+    "iso": "HTI",
+    "bounds": {
+      "southWest": {
+        "lat": -74.489166,
+        "lng": 18.025946
+      },
+      "northEast": {
+        "lat": -71.639111,
+        "lng": 20.089789
+      }
+    }
+  },
+  {
+    "name": "Hungary",
+    "iso": "HUN",
+    "bounds": {
+      "southWest": {
+        "lat": 16.094035,
+        "lng": 45.741343
+      },
+      "northEast": {
+        "lat": 22.877601,
+        "lng": 48.569233
+      }
+    }
+  },
+  {
+    "name": "Indonesia",
+    "iso": "IDN",
+    "bounds": {
+      "southWest": {
+        "lat": 95.012706,
+        "lng": -10.922621
+      },
+      "northEast": {
+        "lat": 140.977627,
+        "lng": 5.910102
+      }
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "iso": "IMN",
+    "bounds": {
+      "southWest": {
+        "lat": -4.790151,
+        "lng": 54.056952
+      },
+      "northEast": {
+        "lat": -4.31192,
+        "lng": 54.419013
+      }
+    }
+  },
+  {
+    "name": "India",
+    "iso": "IND",
+    "bounds": {
+      "southWest": {
+        "lat": 68.143403,
+        "lng": 6.745551
+      },
+      "northEast": {
+        "lat": 97.362253,
+        "lng": 35.495406
+      }
+    }
+  },
+  {
+    "name": "Indian Ocean Territories",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 96.821544,
+        "lng": -12.199965
+      },
+      "northEast": {
+        "lat": 105.714692,
+        "lng": -10.430841
+      }
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "iso": "IOT",
+    "bounds": {
+      "southWest": {
+        "lat": 71.260997,
+        "lng": -7.432224
+      },
+      "northEast": {
+        "lat": 72.49464,
+        "lng": -5.226983
+      }
+    }
+  },
+  {
+    "name": "Ireland",
+    "iso": "IRL",
+    "bounds": {
+      "southWest": {
+        "lat": -10.478179,
+        "lng": 51.445705
+      },
+      "northEast": {
+        "lat": -5.99352,
+        "lng": 55.386379
+      }
+    }
+  },
+  {
+    "name": "Iran",
+    "iso": "IRN",
+    "bounds": {
+      "southWest": {
+        "lat": 44.014863,
+        "lng": 25.059408
+      },
+      "northEast": {
+        "lat": 63.319628,
+        "lng": 39.771527
+      }
+    }
+  },
+  {
+    "name": "Iraq",
+    "iso": "IRQ",
+    "bounds": {
+      "southWest": {
+        "lat": 38.774511,
+        "lng": 29.063137
+      },
+      "northEast": {
+        "lat": 48.559255,
+        "lng": 37.375498
+      }
+    }
+  },
+  {
+    "name": "Iceland",
+    "iso": "ISL",
+    "bounds": {
+      "southWest": {
+        "lat": -24.539906,
+        "lng": 63.396715
+      },
+      "northEast": {
+        "lat": -13.502919,
+        "lng": 66.564154
+      }
+    }
+  },
+  {
+    "name": "Israel",
+    "iso": "ISR",
+    "bounds": {
+      "southWest": {
+        "lat": 34.248351,
+        "lng": 29.489691
+      },
+      "northEast": {
+        "lat": 35.888073,
+        "lng": 33.406722
+      }
+    }
+  },
+  {
+    "name": "Italy",
+    "iso": "ITA",
+    "bounds": {
+      "southWest": {
+        "lat": 6.602728,
+        "lng": 35.489244
+      },
+      "northEast": {
+        "lat": 18.517426,
+        "lng": 47.085215
+      }
+    }
+  },
+  {
+    "name": "Jamaica",
+    "iso": "JAM",
+    "bounds": {
+      "southWest": {
+        "lat": -78.374664,
+        "lng": 17.703192
+      },
+      "northEast": {
+        "lat": -76.187978,
+        "lng": 18.525092
+      }
+    }
+  },
+  {
+    "name": "Jersey",
+    "iso": "JEY",
+    "bounds": {
+      "southWest": {
+        "lat": -2.242014,
+        "lng": 49.171332
+      },
+      "northEast": {
+        "lat": -2.00829,
+        "lng": 49.267035
+      }
+    }
+  },
+  {
+    "name": "Jordan",
+    "iso": "JOR",
+    "bounds": {
+      "southWest": {
+        "lat": 34.949385,
+        "lng": 29.189951
+      },
+      "northEast": {
+        "lat": 39.291999,
+        "lng": 33.371685
+      }
+    }
+  },
+  {
+    "name": "Japan",
+    "iso": "JPN",
+    "bounds": {
+      "southWest": {
+        "lat": 122.938162,
+        "lng": 24.212104
+      },
+      "northEast": {
+        "lat": 153.985606,
+        "lng": 45.520413
+      }
+    }
+  },
+  {
+    "name": "Baykonur Cosmodrome",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 62.800642,
+        "lng": 45.565824
+      },
+      "northEast": {
+        "lat": 63.967134,
+        "lng": 46.390839
+      }
+    }
+  },
+  {
+    "name": "Siachen Glacier",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 76.777351,
+        "lng": 35.110442
+      },
+      "northEast": {
+        "lat": 77.800346,
+        "lng": 35.647799
+      }
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "iso": "KAZ",
+    "bounds": {
+      "southWest": {
+        "lat": 46.478279,
+        "lng": 40.584656
+      },
+      "northEast": {
+        "lat": 87.323796,
+        "lng": 55.43455
+      }
+    }
+  },
+  {
+    "name": "Kenya",
+    "iso": "KEN",
+    "bounds": {
+      "southWest": {
+        "lat": 33.890468,
+        "lng": -4.677504
+      },
+      "northEast": {
+        "lat": 41.885019,
+        "lng": 5.030376
+      }
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "iso": "KGZ",
+    "bounds": {
+      "southWest": {
+        "lat": 69.226296,
+        "lng": 39.189237
+      },
+      "northEast": {
+        "lat": 80.257561,
+        "lng": 43.261702
+      }
+    }
+  },
+  {
+    "name": "Cambodia",
+    "iso": "KHM",
+    "bounds": {
+      "southWest": {
+        "lat": 102.313424,
+        "lng": 10.415774
+      },
+      "northEast": {
+        "lat": 107.610516,
+        "lng": 14.704582
+      }
+    }
+  },
+  {
+    "name": "Kiribati",
+    "iso": "KIR",
+    "bounds": {
+      "southWest": {
+        "lat": -174.543406,
+        "lng": -11.461114
+      },
+      "northEast": {
+        "lat": 176.850922,
+        "lng": 4.72309
+      }
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "iso": "KNA",
+    "bounds": {
+      "southWest": {
+        "lat": -62.861073,
+        "lng": 17.100531
+      },
+      "northEast": {
+        "lat": -62.536773,
+        "lng": 17.415839
+      }
+    }
+  },
+  {
+    "name": "South Korea",
+    "iso": "KOR",
+    "bounds": {
+      "southWest": {
+        "lat": 124.613617,
+        "lng": 33.197577
+      },
+      "northEast": {
+        "lat": 131.862522,
+        "lng": 38.624331
+      }
+    }
+  },
+  {
+    "name": "Kosovo",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 20.024751,
+        "lng": 41.84401
+      },
+      "northEast": {
+        "lat": 21.772758,
+        "lng": 43.263071
+      }
+    }
+  },
+  {
+    "name": "Kuwait",
+    "iso": "KWT",
+    "bounds": {
+      "southWest": {
+        "lat": 46.532436,
+        "lng": 28.533505
+      },
+      "northEast": {
+        "lat": 48.432781,
+        "lng": 30.098216
+      }
+    }
+  },
+  {
+    "name": "Laos",
+    "iso": "LAO",
+    "bounds": {
+      "southWest": {
+        "lat": 100.097073,
+        "lng": 13.915457
+      },
+      "northEast": {
+        "lat": 107.664363,
+        "lng": 22.496044
+      }
+    }
+  },
+  {
+    "name": "Lebanon",
+    "iso": "LBN",
+    "bounds": {
+      "southWest": {
+        "lat": 35.09962,
+        "lng": 33.05558
+      },
+      "northEast": {
+        "lat": 36.604101,
+        "lng": 34.687548
+      }
+    }
+  },
+  {
+    "name": "Liberia",
+    "iso": "LBR",
+    "bounds": {
+      "southWest": {
+        "lat": -11.476186,
+        "lng": 4.347235
+      },
+      "northEast": {
+        "lat": -7.384118,
+        "lng": 8.565396
+      }
+    }
+  },
+  {
+    "name": "Libya",
+    "iso": "LBY",
+    "bounds": {
+      "southWest": {
+        "lat": 9.286544,
+        "lng": 19.496124
+      },
+      "northEast": {
+        "lat": 25.156261,
+        "lng": 33.181225
+      }
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "iso": "LCA",
+    "bounds": {
+      "southWest": {
+        "lat": -61.078521,
+        "lng": 13.714667
+      },
+      "northEast": {
+        "lat": -60.882965,
+        "lng": 14.111884
+      }
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "iso": "LIE",
+    "bounds": {
+      "southWest": {
+        "lat": 9.475886,
+        "lng": 47.0524
+      },
+      "northEast": {
+        "lat": 9.615723,
+        "lng": 47.262801
+      }
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "iso": "LKA",
+    "bounds": {
+      "southWest": {
+        "lat": 79.655772,
+        "lng": 5.923733
+      },
+      "northEast": {
+        "lat": 81.89031,
+        "lng": 9.829576
+      }
+    }
+  },
+  {
+    "name": "Lesotho",
+    "iso": "LSO",
+    "bounds": {
+      "southWest": {
+        "lat": 27.002155,
+        "lng": -30.658799
+      },
+      "northEast": {
+        "lat": 29.435908,
+        "lng": -28.570761
+      }
+    }
+  },
+  {
+    "name": "Lithuania",
+    "iso": "LTU",
+    "bounds": {
+      "southWest": {
+        "lat": 20.924569,
+        "lng": 53.886841
+      },
+      "northEast": {
+        "lat": 26.80072,
+        "lng": 56.442602
+      }
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "iso": "LUX",
+    "bounds": {
+      "southWest": {
+        "lat": 5.714927,
+        "lng": 49.441324
+      },
+      "northEast": {
+        "lat": 6.502579,
+        "lng": 50.174975
+      }
+    }
+  },
+  {
+    "name": "Latvia",
+    "iso": "LVA",
+    "bounds": {
+      "southWest": {
+        "lat": 20.968598,
+        "lng": 55.666991
+      },
+      "northEast": {
+        "lat": 28.217275,
+        "lng": 58.075138
+      }
+    }
+  },
+  {
+    "name": "Macao S.A.R",
+    "iso": "MAC",
+    "bounds": {
+      "southWest": {
+        "lat": 113.519867,
+        "lng": 22.105373
+      },
+      "northEast": {
+        "lat": 113.587494,
+        "lng": 22.220771
+      }
+    }
+  },
+  {
+    "name": "Saint Martin",
+    "iso": "MAF",
+    "bounds": {
+      "southWest": {
+        "lat": -63.14684,
+        "lng": 18.033391
+      },
+      "northEast": {
+        "lat": -63.010732,
+        "lng": 18.122138
+      }
+    }
+  },
+  {
+    "name": "Morocco",
+    "iso": "MAR",
+    "bounds": {
+      "southWest": {
+        "lat": -17.013743,
+        "lng": 21.419971
+      },
+      "northEast": {
+        "lat": -1.031999,
+        "lng": 35.926519
+      }
+    }
+  },
+  {
+    "name": "Monaco",
+    "iso": "MCO",
+    "bounds": {
+      "southWest": {
+        "lat": 7.36575,
+        "lng": 43.717969
+      },
+      "northEast": {
+        "lat": 7.437454,
+        "lng": 43.763506
+      }
+    }
+  },
+  {
+    "name": "Moldova",
+    "iso": "MDA",
+    "bounds": {
+      "southWest": {
+        "lat": 26.617889,
+        "lng": 45.461774
+      },
+      "northEast": {
+        "lat": 30.131576,
+        "lng": 48.486034
+      }
+    }
+  },
+  {
+    "name": "Madagascar",
+    "iso": "MDG",
+    "bounds": {
+      "southWest": {
+        "lat": 43.222911,
+        "lng": -25.598565
+      },
+      "northEast": {
+        "lat": 50.503917,
+        "lng": -11.943617
+      }
+    }
+  },
+  {
+    "name": "Maldives",
+    "iso": "MDV",
+    "bounds": {
+      "southWest": {
+        "lat": 72.684825,
+        "lng": -0.688572
+      },
+      "northEast": {
+        "lat": 73.753184,
+        "lng": 7.107245
+      }
+    }
+  },
+  {
+    "name": "Mexico",
+    "iso": "MEX",
+    "bounds": {
+      "southWest": {
+        "lat": -118.368804,
+        "lng": 14.546283
+      },
+      "northEast": {
+        "lat": -86.700592,
+        "lng": 32.712836
+      }
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "iso": "MHL",
+    "bounds": {
+      "southWest": {
+        "lat": 165.282237,
+        "lng": 4.573798
+      },
+      "northEast": {
+        "lat": 172.029796,
+        "lng": 14.6105
+      }
+    }
+  },
+  {
+    "name": "Macedonia",
+    "iso": "MKD",
+    "bounds": {
+      "southWest": {
+        "lat": 20.444157,
+        "lng": 40.849394
+      },
+      "northEast": {
+        "lat": 23.009582,
+        "lng": 42.370335
+      }
+    }
+  },
+  {
+    "name": "Mali",
+    "iso": "MLI",
+    "bounds": {
+      "southWest": {
+        "lat": -12.26413,
+        "lng": 10.140054
+      },
+      "northEast": {
+        "lat": 4.235638,
+        "lng": 24.995065
+      }
+    }
+  },
+  {
+    "name": "Malta",
+    "iso": "MLT",
+    "bounds": {
+      "southWest": {
+        "lat": 14.183604,
+        "lng": 35.801215
+      },
+      "northEast": {
+        "lat": 14.567149,
+        "lng": 36.075588
+      }
+    }
+  },
+  {
+    "name": "Myanmar",
+    "iso": "MMR",
+    "bounds": {
+      "southWest": {
+        "lat": 92.174973,
+        "lng": 9.790717
+      },
+      "northEast": {
+        "lat": 101.173855,
+        "lng": 28.538466
+      }
+    }
+  },
+  {
+    "name": "Montenegro",
+    "iso": "MNE",
+    "bounds": {
+      "southWest": {
+        "lat": 18.433531,
+        "lng": 41.852362
+      },
+      "northEast": {
+        "lat": 20.355171,
+        "lng": 43.547886
+      }
+    }
+  },
+  {
+    "name": "Mongolia",
+    "iso": "MNG",
+    "bounds": {
+      "southWest": {
+        "lat": 87.735709,
+        "lng": 41.586145
+      },
+      "northEast": {
+        "lat": 119.907027,
+        "lng": 52.129584
+      }
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "iso": "MNP",
+    "bounds": {
+      "southWest": {
+        "lat": 144.90211,
+        "lng": 14.110663
+      },
+      "northEast": {
+        "lat": 145.868907,
+        "lng": 20.555406
+      }
+    }
+  },
+  {
+    "name": "Mozambique",
+    "iso": "MOZ",
+    "bounds": {
+      "southWest": {
+        "lat": 30.213845,
+        "lng": -26.860272
+      },
+      "northEast": {
+        "lat": 40.847992,
+        "lng": -10.469008
+      }
+    }
+  },
+  {
+    "name": "Mauritania",
+    "iso": "MRT",
+    "bounds": {
+      "southWest": {
+        "lat": -17.081175,
+        "lng": 14.734399
+      },
+      "northEast": {
+        "lat": -4.821613,
+        "lng": 27.285416
+      }
+    }
+  },
+  {
+    "name": "Montserrat",
+    "iso": "MSR",
+    "bounds": {
+      "southWest": {
+        "lat": -62.230133,
+        "lng": 16.67536
+      },
+      "northEast": {
+        "lat": -62.140533,
+        "lng": 16.819322
+      }
+    }
+  },
+  {
+    "name": "Mauritius",
+    "iso": "MUS",
+    "bounds": {
+      "southWest": {
+        "lat": 56.524181,
+        "lng": -20.517348
+      },
+      "northEast": {
+        "lat": 63.493907,
+        "lng": -10.323907
+      }
+    }
+  },
+  {
+    "name": "Malawi",
+    "iso": "MWI",
+    "bounds": {
+      "southWest": {
+        "lat": 32.663308,
+        "lng": -17.135335
+      },
+      "northEast": {
+        "lat": 35.904299,
+        "lng": -9.381235
+      }
+    }
+  },
+  {
+    "name": "Malaysia",
+    "iso": "MYS",
+    "bounds": {
+      "southWest": {
+        "lat": 99.645228,
+        "lng": 0.85137
+      },
+      "northEast": {
+        "lat": 119.278087,
+        "lng": 7.35578
+      }
+    }
+  },
+  {
+    "name": "Namibia",
+    "iso": "NAM",
+    "bounds": {
+      "southWest": {
+        "lat": 11.717621,
+        "lng": -28.959368
+      },
+      "northEast": {
+        "lat": 25.259781,
+        "lng": -16.951057
+      }
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "iso": "NCL",
+    "bounds": {
+      "southWest": {
+        "lat": 163.615733,
+        "lng": -22.670668
+      },
+      "northEast": {
+        "lat": 171.343765,
+        "lng": -19.623712
+      }
+    }
+  },
+  {
+    "name": "Niger",
+    "iso": "NER",
+    "bounds": {
+      "southWest": {
+        "lat": 0.152941,
+        "lng": 11.695773
+      },
+      "northEast": {
+        "lat": 15.970322,
+        "lng": 23.517351
+      }
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "iso": "NFK",
+    "bounds": {
+      "southWest": {
+        "lat": 167.91212,
+        "lng": -29.080011
+      },
+      "northEast": {
+        "lat": 167.996349,
+        "lng": -28.997491
+      }
+    }
+  },
+  {
+    "name": "Nigeria",
+    "iso": "NGA",
+    "bounds": {
+      "southWest": {
+        "lat": 2.671082,
+        "lng": 4.272162
+      },
+      "northEast": {
+        "lat": 14.669936,
+        "lng": 13.880291
+      }
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "iso": "NIC",
+    "bounds": {
+      "southWest": {
+        "lat": -87.685821,
+        "lng": 10.713482
+      },
+      "northEast": {
+        "lat": -82.725697,
+        "lng": 15.03097
+      }
+    }
+  },
+  {
+    "name": "Niue",
+    "iso": "NIU",
+    "bounds": {
+      "southWest": {
+        "lat": -169.950429,
+        "lng": -19.142755
+      },
+      "northEast": {
+        "lat": -169.782908,
+        "lng": -18.964044
+      }
+    }
+  },
+  {
+    "name": "Netherlands",
+    "iso": "NLD",
+    "bounds": {
+      "southWest": {
+        "lat": -68.417388,
+        "lng": 12.02204
+      },
+      "northEast": {
+        "lat": 7.198506,
+        "lng": 53.558092
+      }
+    }
+  },
+  {
+    "name": "Norway",
+    "iso": "NOR",
+    "bounds": {
+      "southWest": {
+        "lat": -9.117421,
+        "lng": -54.462498
+      },
+      "northEast": {
+        "lat": 33.640391,
+        "lng": 80.770087
+      }
+    }
+  },
+  {
+    "name": "Nepal",
+    "iso": "NPL",
+    "bounds": {
+      "southWest": {
+        "lat": 80.030288,
+        "lng": 26.343768
+      },
+      "northEast": {
+        "lat": 88.169067,
+        "lng": 30.416904
+      }
+    }
+  },
+  {
+    "name": "Nauru",
+    "iso": "NRU",
+    "bounds": {
+      "southWest": {
+        "lat": 166.906993,
+        "lng": -0.551853
+      },
+      "northEast": {
+        "lat": 166.958263,
+        "lng": -0.490411
+      }
+    }
+  },
+  {
+    "name": "New Zealand",
+    "iso": "NZL",
+    "bounds": {
+      "southWest": {
+        "lat": -177.957997,
+        "lng": -52.600313
+      },
+      "northEast": {
+        "lat": 178.843923,
+        "lng": -8.543227
+      }
+    }
+  },
+  {
+    "name": "Oman",
+    "iso": "OMN",
+    "bounds": {
+      "southWest": {
+        "lat": 51.978615,
+        "lng": 16.642406
+      },
+      "northEast": {
+        "lat": 59.844574,
+        "lng": 26.385972
+      }
+    }
+  },
+  {
+    "name": "Pakistan",
+    "iso": "PAK",
+    "bounds": {
+      "southWest": {
+        "lat": 60.844379,
+        "lng": 23.694525
+      },
+      "northEast": {
+        "lat": 77.048971,
+        "lng": 37.054484
+      }
+    }
+  },
+  {
+    "name": "Panama",
+    "iso": "PAN",
+    "bounds": {
+      "southWest": {
+        "lat": -83.053246,
+        "lng": 7.205715
+      },
+      "northEast": {
+        "lat": -77.16327,
+        "lng": 9.629292
+      }
+    }
+  },
+  {
+    "name": "Pitcairn Islands",
+    "iso": "PCN",
+    "bounds": {
+      "southWest": {
+        "lat": -130.753082,
+        "lng": -25.077081
+      },
+      "northEast": {
+        "lat": -124.778066,
+        "lng": -23.924412
+      }
+    }
+  },
+  {
+    "name": "Peru",
+    "iso": "PER",
+    "bounds": {
+      "southWest": {
+        "lat": -81.337558,
+        "lng": -18.337746
+      },
+      "northEast": {
+        "lat": -68.684252,
+        "lng": -0.029093
+      }
+    }
+  },
+  {
+    "name": "Spratly Islands",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 114.02768,
+        "lng": 9.679511
+      },
+      "northEast": {
+        "lat": 115.848806,
+        "lng": 11.117987
+      }
+    }
+  },
+  {
+    "name": "Philippines",
+    "iso": "PHL",
+    "bounds": {
+      "southWest": {
+        "lat": 116.954926,
+        "lng": 4.655707
+      },
+      "northEast": {
+        "lat": 126.617686,
+        "lng": 21.122382
+      }
+    }
+  },
+  {
+    "name": "Palau",
+    "iso": "PLW",
+    "bounds": {
+      "southWest": {
+        "lat": 131.131114,
+        "lng": 2.949042
+      },
+      "northEast": {
+        "lat": 134.727343,
+        "lng": 8.096618
+      }
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "iso": "PNG",
+    "bounds": {
+      "southWest": {
+        "lat": 140.849211,
+        "lng": -11.636326
+      },
+      "northEast": {
+        "lat": 155.96754,
+        "lng": -1.346368
+      }
+    }
+  },
+  {
+    "name": "Poland",
+    "iso": "POL",
+    "bounds": {
+      "southWest": {
+        "lat": 14.123923,
+        "lng": 48.994013
+      },
+      "northEast": {
+        "lat": 24.143156,
+        "lng": 54.838324
+      }
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "iso": "PRI",
+    "bounds": {
+      "southWest": {
+        "lat": -67.937815,
+        "lng": 17.922919
+      },
+      "northEast": {
+        "lat": -65.244618,
+        "lng": 18.522773
+      }
+    }
+  },
+  {
+    "name": "North Korea",
+    "iso": "PRK",
+    "bounds": {
+      "southWest": {
+        "lat": 124.211316,
+        "lng": 37.675605
+      },
+      "northEast": {
+        "lat": 130.699962,
+        "lng": 43.01027
+      }
+    }
+  },
+  {
+    "name": "Portugal",
+    "iso": "PRT",
+    "bounds": {
+      "southWest": {
+        "lat": -31.284901,
+        "lng": 30.029242
+      },
+      "northEast": {
+        "lat": -6.205947,
+        "lng": 42.15363
+      }
+    }
+  },
+  {
+    "name": "Paraguay",
+    "iso": "PRY",
+    "bounds": {
+      "southWest": {
+        "lat": -62.650357,
+        "lng": -27.586842
+      },
+      "northEast": {
+        "lat": -54.245289,
+        "lng": -19.286729
+      }
+    }
+  },
+  {
+    "name": "Palestine",
+    "iso": "PSE",
+    "bounds": {
+      "southWest": {
+        "lat": 34.200269,
+        "lng": 31.211449
+      },
+      "northEast": {
+        "lat": 35.572536,
+        "lng": 32.54264
+      }
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "iso": "PYF",
+    "bounds": {
+      "southWest": {
+        "lat": -154.536977,
+        "lng": -27.641209
+      },
+      "northEast": {
+        "lat": -134.942983,
+        "lng": -7.950128
+      }
+    }
+  },
+  {
+    "name": "Qatar",
+    "iso": "QAT",
+    "bounds": {
+      "southWest": {
+        "lat": 50.750987,
+        "lng": 24.559872
+      },
+      "northEast": {
+        "lat": 51.616547,
+        "lng": 26.160102
+      }
+    }
+  },
+  {
+    "name": "Romania",
+    "iso": "ROU",
+    "bounds": {
+      "southWest": {
+        "lat": 20.242826,
+        "lng": 43.65005
+      },
+      "northEast": {
+        "lat": 29.699555,
+        "lng": 48.274832
+      }
+    }
+  },
+  {
+    "name": "Russia",
+    "iso": "RUS",
+    "bounds": {
+      "southWest": {
+        "lat": -180.0,
+        "lng": 41.192681
+      },
+      "northEast": {
+        "lat": 180.0,
+        "lng": 81.85871
+      }
+    }
+  },
+  {
+    "name": "Rwanda",
+    "iso": "RWA",
+    "bounds": {
+      "southWest": {
+        "lat": 28.857236,
+        "lng": -2.826855
+      },
+      "northEast": {
+        "lat": 30.887809,
+        "lng": -1.058694
+      }
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "iso": "ESH",
+    "bounds": {
+      "southWest": {
+        "lat": -17.104644,
+        "lng": 20.766913
+      },
+      "northEast": {
+        "lat": -8.680809,
+        "lng": 27.661465
+      }
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso": "SAU",
+    "bounds": {
+      "southWest": {
+        "lat": 34.572765,
+        "lng": 16.370945
+      },
+      "northEast": {
+        "lat": 55.637565,
+        "lng": 32.121348
+      }
+    }
+  },
+  {
+    "name": "Scarborough Reef",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 117.751856,
+        "lng": 15.150082
+      },
+      "northEast": {
+        "lat": 117.755692,
+        "lng": 15.154369
+      }
+    }
+  },
+  {
+    "name": "Sudan",
+    "iso": "SDN",
+    "bounds": {
+      "southWest": {
+        "lat": 21.809449,
+        "lng": 8.681642
+      },
+      "northEast": {
+        "lat": 38.603852,
+        "lng": 22.226965
+      }
+    }
+  },
+  {
+    "name": "South Sudan",
+    "iso": "SSD",
+    "bounds": {
+      "southWest": {
+        "lat": 24.121556,
+        "lng": 3.490202
+      },
+      "northEast": {
+        "lat": 35.920835,
+        "lng": 12.216155
+      }
+    }
+  },
+  {
+    "name": "Senegal",
+    "iso": "SEN",
+    "bounds": {
+      "southWest": {
+        "lat": -17.536041,
+        "lng": 12.305607
+      },
+      "northEast": {
+        "lat": -11.377776,
+        "lng": 16.691385
+      }
+    }
+  },
+  {
+    "name": "Serranilla Bank",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": -78.640411,
+        "lng": 15.862087
+      },
+      "northEast": {
+        "lat": -78.636871,
+        "lng": 15.867296
+      }
+    }
+  },
+  {
+    "name": "Singapore",
+    "iso": "SGP",
+    "bounds": {
+      "southWest": {
+        "lat": 103.640391,
+        "lng": 1.264309
+      },
+      "northEast": {
+        "lat": 104.003429,
+        "lng": 1.448635
+      }
+    }
+  },
+  {
+    "name": "South Georgia and South Sandwich Islands",
+    "iso": "SGS",
+    "bounds": {
+      "southWest": {
+        "lat": -38.087026,
+        "lng": -59.472752
+      },
+      "northEast": {
+        "lat": -26.239329,
+        "lng": -53.972426
+      }
+    }
+  },
+  {
+    "name": "Saint Helena",
+    "iso": "SHN",
+    "bounds": {
+      "southWest": {
+        "lat": -14.417714,
+        "lng": -40.397882
+      },
+      "northEast": {
+        "lat": -5.65038,
+        "lng": -7.877862
+      }
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "iso": "SLB",
+    "bounds": {
+      "southWest": {
+        "lat": 155.507986,
+        "lng": -12.290623
+      },
+      "northEast": {
+        "lat": 168.825857,
+        "lng": -6.599867
+      }
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "iso": "SLE",
+    "bounds": {
+      "southWest": {
+        "lat": -13.301096,
+        "lng": 6.91942
+      },
+      "northEast": {
+        "lat": -10.282236,
+        "lng": 9.996006
+      }
+    }
+  },
+  {
+    "name": "El Salvador",
+    "iso": "SLV",
+    "bounds": {
+      "southWest": {
+        "lat": -90.114779,
+        "lng": 13.158637
+      },
+      "northEast": {
+        "lat": -87.693194,
+        "lng": 14.445373
+      }
+    }
+  },
+  {
+    "name": "San Marino",
+    "iso": "SMR",
+    "bounds": {
+      "southWest": {
+        "lat": 12.385629,
+        "lng": 43.892056
+      },
+      "northEast": {
+        "lat": 12.492392,
+        "lng": 43.982567
+      }
+    }
+  },
+  {
+    "name": "Somaliland",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 42.647247,
+        "lng": 7.996516
+      },
+      "northEast": {
+        "lat": 48.939112,
+        "lng": 11.498928
+      }
+    }
+  },
+  {
+    "name": "Somalia",
+    "iso": "SOM",
+    "bounds": {
+      "southWest": {
+        "lat": 40.965385,
+        "lng": -1.696283
+      },
+      "northEast": {
+        "lat": 51.417038,
+        "lng": 11.989119
+      }
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "iso": "SPM",
+    "bounds": {
+      "southWest": {
+        "lat": -56.396596,
+        "lng": 46.752753
+      },
+      "northEast": {
+        "lat": -56.144765,
+        "lng": 47.141262
+      }
+    }
+  },
+  {
+    "name": "Republic of Serbia",
+    "iso": "SRB",
+    "bounds": {
+      "southWest": {
+        "lat": 18.844978,
+        "lng": 42.234943
+      },
+      "northEast": {
+        "lat": 22.984571,
+        "lng": 46.173875
+      }
+    }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "iso": "STP",
+    "bounds": {
+      "southWest": {
+        "lat": 6.461681,
+        "lng": 0.024115
+      },
+      "northEast": {
+        "lat": 7.462738,
+        "lng": 1.699774
+      }
+    }
+  },
+  {
+    "name": "Suriname",
+    "iso": "SUR",
+    "bounds": {
+      "southWest": {
+        "lat": -58.067691,
+        "lng": 1.833507
+      },
+      "northEast": {
+        "lat": -53.986357,
+        "lng": 6.011574
+      }
+    }
+  },
+  {
+    "name": "Slovakia",
+    "iso": "SVK",
+    "bounds": {
+      "southWest": {
+        "lat": 16.84448,
+        "lng": 47.750006
+      },
+      "northEast": {
+        "lat": 22.539637,
+        "lng": 49.60178
+      }
+    }
+  },
+  {
+    "name": "Slovenia",
+    "iso": "SVN",
+    "bounds": {
+      "southWest": {
+        "lat": 13.365261,
+        "lng": 45.423637
+      },
+      "northEast": {
+        "lat": 16.515302,
+        "lng": 46.863962
+      }
+    }
+  },
+  {
+    "name": "Sweden",
+    "iso": "SWE",
+    "bounds": {
+      "southWest": {
+        "lat": 11.108165,
+        "lng": 55.342678
+      },
+      "northEast": {
+        "lat": 24.163414,
+        "lng": 69.036356
+      }
+    }
+  },
+  {
+    "name": "Swaziland",
+    "iso": "SWZ",
+    "bounds": {
+      "southWest": {
+        "lat": 30.782906,
+        "lng": -27.316264
+      },
+      "northEast": {
+        "lat": 32.117398,
+        "lng": -25.735999
+      }
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "iso": "SXM",
+    "bounds": {
+      "southWest": {
+        "lat": -63.118886,
+        "lng": 18.01911
+      },
+      "northEast": {
+        "lat": -63.017569,
+        "lng": 18.062109
+      }
+    }
+  },
+  {
+    "name": "Seychelles",
+    "iso": "SYC",
+    "bounds": {
+      "southWest": {
+        "lat": 46.207367,
+        "lng": -9.755548
+      },
+      "northEast": {
+        "lat": 56.287446,
+        "lng": -3.791111
+      }
+    }
+  },
+  {
+    "name": "Syria",
+    "iso": "SYR",
+    "bounds": {
+      "southWest": {
+        "lat": 35.723399,
+        "lng": 32.313042
+      },
+      "northEast": {
+        "lat": 42.377186,
+        "lng": 37.324906
+      }
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "iso": "TCA",
+    "bounds": {
+      "southWest": {
+        "lat": -72.481313,
+        "lng": 21.290107
+      },
+      "northEast": {
+        "lat": -71.128896,
+        "lng": 21.959215
+      }
+    }
+  },
+  {
+    "name": "Chad",
+    "iso": "TCD",
+    "bounds": {
+      "southWest": {
+        "lat": 13.449184,
+        "lng": 7.455567
+      },
+      "northEast": {
+        "lat": 23.984406,
+        "lng": 23.44472
+      }
+    }
+  },
+  {
+    "name": "Togo",
+    "iso": "TGO",
+    "bounds": {
+      "southWest": {
+        "lat": -0.166109,
+        "lng": 6.100491
+      },
+      "northEast": {
+        "lat": 1.782351,
+        "lng": 11.13498
+      }
+    }
+  },
+  {
+    "name": "Thailand",
+    "iso": "THA",
+    "bounds": {
+      "southWest": {
+        "lat": 97.351401,
+        "lng": 5.62989
+      },
+      "northEast": {
+        "lat": 105.650998,
+        "lng": 20.445006
+      }
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "iso": "TJK",
+    "bounds": {
+      "southWest": {
+        "lat": 67.34269,
+        "lng": 36.678641
+      },
+      "northEast": {
+        "lat": 75.164125,
+        "lng": 41.039977
+      }
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "iso": "TKM",
+    "bounds": {
+      "southWest": {
+        "lat": 52.437671,
+        "lng": 35.140647
+      },
+      "northEast": {
+        "lat": 66.645782,
+        "lng": 42.791188
+      }
+    }
+  },
+  {
+    "name": "East Timor",
+    "iso": "TLS",
+    "bounds": {
+      "southWest": {
+        "lat": 124.03004,
+        "lng": -9.501228
+      },
+      "northEast": {
+        "lat": 127.313243,
+        "lng": -8.135024
+      }
+    }
+  },
+  {
+    "name": "Tonga",
+    "iso": "TON",
+    "bounds": {
+      "southWest": {
+        "lat": -176.219309,
+        "lng": -22.3388
+      },
+      "northEast": {
+        "lat": -173.914255,
+        "lng": -15.559503
+      }
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "iso": "TTO",
+    "bounds": {
+      "southWest": {
+        "lat": -61.9287,
+        "lng": 10.04206
+      },
+      "northEast": {
+        "lat": -60.522084,
+        "lng": 11.35106
+      }
+    }
+  },
+  {
+    "name": "Tunisia",
+    "iso": "TUN",
+    "bounds": {
+      "southWest": {
+        "lat": 7.479832,
+        "lng": 30.228905
+      },
+      "northEast": {
+        "lat": 11.564131,
+        "lng": 37.345201
+      }
+    }
+  },
+  {
+    "name": "Turkey",
+    "iso": "TUR",
+    "bounds": {
+      "southWest": {
+        "lat": 25.663259,
+        "lng": 35.819779
+      },
+      "northEast": {
+        "lat": 44.806993,
+        "lng": 42.098782
+      }
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "iso": "TUV",
+    "bounds": {
+      "southWest": {
+        "lat": 176.125255,
+        "lng": -9.420668
+      },
+      "northEast": {
+        "lat": 179.906749,
+        "lng": -5.677504
+      }
+    }
+  },
+  {
+    "name": "Taiwan",
+    "iso": "TWN",
+    "bounds": {
+      "southWest": {
+        "lat": 118.279552,
+        "lng": 21.904608
+      },
+      "northEast": {
+        "lat": 122.005382,
+        "lng": 25.287421
+      }
+    }
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "iso": "TZA",
+    "bounds": {
+      "southWest": {
+        "lat": 29.321032,
+        "lng": -11.731272
+      },
+      "northEast": {
+        "lat": 40.449392,
+        "lng": -0.98583
+      }
+    }
+  },
+  {
+    "name": "Uganda",
+    "iso": "UGA",
+    "bounds": {
+      "southWest": {
+        "lat": 29.54846,
+        "lng": -1.475206
+      },
+      "northEast": {
+        "lat": 35.006473,
+        "lng": 4.219692
+      }
+    }
+  },
+  {
+    "name": "Ukraine",
+    "iso": "UKR",
+    "bounds": {
+      "southWest": {
+        "lat": 22.13284,
+        "lng": 44.381049
+      },
+      "northEast": {
+        "lat": 40.159543,
+        "lng": 52.368949
+      }
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "iso": "UMI",
+    "bounds": {
+      "southWest": {
+        "lat": -177.389597,
+        "lng": -0.388767
+      },
+      "northEast": {
+        "lat": 166.652354,
+        "lng": 28.215318
+      }
+    }
+  },
+  {
+    "name": "Uruguay",
+    "iso": "URY",
+    "bounds": {
+      "southWest": {
+        "lat": -58.439361,
+        "lng": -34.973403
+      },
+      "northEast": {
+        "lat": -53.110836,
+        "lng": -30.09687
+      }
+    }
+  },
+  {
+    "name": "United States of America",
+    "iso": "USA",
+    "bounds": {
+      "southWest": {
+        "lat": -179.143503,
+        "lng": 18.906117
+      },
+      "northEast": {
+        "lat": 179.780935,
+        "lng": 71.412502
+      }
+    }
+  },
+  {
+    "name": "US Naval Base Guantanamo Bay",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": -75.232857,
+        "lng": 19.891142
+      },
+      "northEast": {
+        "lat": -75.09495,
+        "lng": 19.971584
+      }
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "iso": "UZB",
+    "bounds": {
+      "southWest": {
+        "lat": 55.975839,
+        "lng": 37.185147
+      },
+      "northEast": {
+        "lat": 73.148641,
+        "lng": 45.558719
+      }
+    }
+  },
+  {
+    "name": "Vatican",
+    "iso": "VAT",
+    "bounds": {
+      "southWest": {
+        "lat": 12.452714,
+        "lng": 41.902752
+      },
+      "northEast": {
+        "lat": 12.454035,
+        "lng": 41.903915
+      }
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "iso": "VCT",
+    "bounds": {
+      "southWest": {
+        "lat": -61.459828,
+        "lng": 12.58515
+      },
+      "northEast": {
+        "lat": -61.123931,
+        "lng": 13.380764
+      }
+    }
+  },
+  {
+    "name": "Venezuela",
+    "iso": "VEN",
+    "bounds": {
+      "southWest": {
+        "lat": -73.391149,
+        "lng": 0.649315
+      },
+      "northEast": {
+        "lat": -59.815595,
+        "lng": 15.702948
+      }
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "iso": "VGB",
+    "bounds": {
+      "southWest": {
+        "lat": -64.773997,
+        "lng": 18.334662
+      },
+      "northEast": {
+        "lat": -64.270741,
+        "lng": 18.746243
+      }
+    }
+  },
+  {
+    "name": "United States Virgin Islands",
+    "iso": "VIR",
+    "bounds": {
+      "southWest": {
+        "lat": -65.041493,
+        "lng": 17.682766
+      },
+      "northEast": {
+        "lat": -64.559397,
+        "lng": 18.386599
+      }
+    }
+  },
+  {
+    "name": "Vietnam",
+    "iso": "VNM",
+    "bounds": {
+      "southWest": {
+        "lat": 102.118655,
+        "lng": 8.565579
+      },
+      "northEast": {
+        "lat": 109.472423,
+        "lng": 23.366275
+      }
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "iso": "VUT",
+    "bounds": {
+      "southWest": {
+        "lat": 166.520518,
+        "lng": -20.253106
+      },
+      "northEast": {
+        "lat": 169.898936,
+        "lng": -13.064874
+      }
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "iso": "WLF",
+    "bounds": {
+      "southWest": {
+        "lat": -178.18574,
+        "lng": -14.319431
+      },
+      "northEast": {
+        "lat": -176.1256,
+        "lng": -13.208917
+      }
+    }
+  },
+  {
+    "name": "Akrotiri Sovereign Base Area",
+    "iso": "-99",
+    "bounds": {
+      "southWest": {
+        "lat": 32.760102,
+        "lng": 34.568549
+      },
+      "northEast": {
+        "lat": 33.030284,
+        "lng": 34.700948
+      }
+    }
+  },
+  {
+    "name": "Samoa",
+    "iso": "WSM",
+    "bounds": {
+      "southWest": {
+        "lat": -172.782582,
+        "lng": -14.05283
+      },
+      "northEast": {
+        "lat": -171.437693,
+        "lng": -13.462823
+      }
+    }
+  },
+  {
+    "name": "Yemen",
+    "iso": "YEM",
+    "bounds": {
+      "southWest": {
+        "lat": 42.545746,
+        "lng": 12.111444
+      },
+      "northEast": {
+        "lat": 54.540294,
+        "lng": 18.995638
+      }
+    }
+  },
+  {
+    "name": "South Africa",
+    "iso": "ZAF",
+    "bounds": {
+      "southWest": {
+        "lat": 16.469981,
+        "lng": -46.965753
+      },
+      "northEast": {
+        "lat": 37.977794,
+        "lng": -22.126452
+      }
+    }
+  },
+  {
+    "name": "Zambia",
+    "iso": "ZMB",
+    "bounds": {
+      "southWest": {
+        "lat": 21.979878,
+        "lng": -18.069232
+      },
+      "northEast": {
+        "lat": 33.674203,
+        "lng": -8.194124
+      }
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "iso": "ZWE",
+    "bounds": {
+      "southWest": {
+        "lat": 25.21937,
+        "lng": -22.39734
+      },
+      "northEast": {
+        "lat": 33.042768,
+        "lng": -15.614808
+      }
+    }
+  }
+]
